@@ -25,7 +25,7 @@ npm run preview
 ## النشر على GitHub Pages
 1. أنشئ مستودع GitHub وارفع الملفات إلى فرع `main`.
 2. من Settings → Pages اختر **GitHub Actions** كمصدر النشر.
-3. سيعمل سير العمل `.github/workflows/deploy.yml` تلقائياً عند كل دفع إلى `main`، ويستخدم `npm install` لأن المستودع لا يتضمن ملف قفل حالياً.
+3. سيعمل سير العمل `.github/workflows/deploy.yml` تلقائياً عند كل دفع إلى `main`. يضبط Vite مسار الأصول تلقائياً لمستودع المشروع، ويستخدم الجذر عند النشر في مستودع `USERNAME.github.io`.
 4. عنوان الموقع سيكون `https://USERNAME.github.io/REPOSITORY/`.
 
 ## هيكلة المشروع

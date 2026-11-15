@@ -3,7 +3,11 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: process.env.GITHUB_ACTIONS ? `/${process.env.GITHUB_REPOSITORY?.split("/")[1] ?? ""}/` : "/",
+  base: (() => {
+    const repository = process.env.GITHUB_REPOSITORY?.split("/")[1];
+    if (!process.env.GITHUB_ACTIONS || !repository || repository.endsWith(".github.io")) return "/";
+    return `/${repository}/`;
+  })(),
   build: {
     rollupOptions: {
       output: {
