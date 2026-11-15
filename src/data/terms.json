@@ -1,0 +1,3049 @@
+{
+  "spanish": {
+    "label": "الإسبانية",
+    "icon": "🇪🇸",
+    "kind": "language",
+    "items": [
+      {
+        "id": "sp-001",
+        "term": "el país hispanohablante",
+        "translation": "البلد الناطق بالإسبانية",
+        "example": "España es un país hispanohablante.",
+        "explanation": "مصطلح من محور «العالم الناطق بالإسبانية والبيئة والحياة اليومية»، ويعني «البلد الناطق بالإسبانية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-002",
+        "term": "la capital",
+        "translation": "العاصمة",
+        "example": "Madrid es la capital de España.",
+        "explanation": "مصطلح من محور «العالم الناطق بالإسبانية والبيئة والحياة اليومية»، ويعني «العاصمة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-003",
+        "term": "la frontera",
+        "translation": "الحدود",
+        "example": "El río forma una frontera natural entre algunos países.",
+        "explanation": "مصطلح من محور «العالم الناطق بالإسبانية والبيئة والحياة اليومية»، ويعني «الحدود». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-004",
+        "term": "la cordillera",
+        "translation": "السلسلة الجبلية",
+        "example": "La cordillera de los Andes atraviesa varios países sudamericanos.",
+        "explanation": "مصطلح من محور «العالم الناطق بالإسبانية والبيئة والحياة اليومية»، ويعني «السلسلة الجبلية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-005",
+        "term": "el río",
+        "translation": "النهر",
+        "example": "El Amazonas es uno de los ríos más importantes del mundo.",
+        "explanation": "مصطلح من محور «العالم الناطق بالإسبانية والبيئة والحياة اليومية»، ويعني «النهر». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-006",
+        "term": "la llanura",
+        "translation": "السهل",
+        "example": "Esta región se caracteriza por una gran llanura.",
+        "explanation": "مصطلح من محور «العالم الناطق بالإسبانية والبيئة والحياة اليومية»، ويعني «السهل». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-007",
+        "term": "el desierto",
+        "translation": "الصحراء",
+        "example": "El desierto de Atacama es uno de los más secos del mundo.",
+        "explanation": "مصطلح من محور «العالم الناطق بالإسبانية والبيئة والحياة اليومية»، ويعني «الصحراء». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-008",
+        "term": "la selva",
+        "translation": "الغابة الاستوائية",
+        "example": "La selva amazónica posee una gran biodiversidad.",
+        "explanation": "مصطلح من محور «العالم الناطق بالإسبانية والبيئة والحياة اليومية»، ويعني «الغابة الاستوائية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-009",
+        "term": "la isla",
+        "translation": "الجزيرة",
+        "example": "Cuba es una isla del Caribe.",
+        "explanation": "مصطلح من محور «العالم الناطق بالإسبانية والبيئة والحياة اليومية»، ويعني «الجزيرة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-010",
+        "term": "el volcán",
+        "translation": "البركان",
+        "example": "El volcán puede entrar en erupción en cualquier momento.",
+        "explanation": "مصطلح من محور «العالم الناطق بالإسبانية والبيئة والحياة اليومية»، ويعني «البركان». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-011",
+        "term": "el paisaje",
+        "translation": "المنظر الطبيعي",
+        "example": "El paisaje de esta región es impresionante.",
+        "explanation": "مصطلح من محور «العالم الناطق بالإسبانية والبيئة والحياة اليومية»، ويعني «المنظر الطبيعي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-012",
+        "term": "el patrimonio",
+        "translation": "التراث",
+        "example": "El patrimonio cultural debe ser protegido.",
+        "explanation": "مصطلح من محور «العالم الناطق بالإسبانية والبيئة والحياة اليومية»، ويعني «التراث». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-013",
+        "term": "la moneda",
+        "translation": "العملة",
+        "example": "El euro es la moneda de España.",
+        "explanation": "مصطلح من محور «العالم الناطق بالإسبانية والبيئة والحياة اليومية»، ويعني «العملة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-014",
+        "term": "la bandera",
+        "translation": "العلم",
+        "example": "La bandera representa la identidad de un país.",
+        "explanation": "مصطلح من محور «العالم الناطق بالإسبانية والبيئة والحياة اليومية»، ويعني «العلم». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-015",
+        "term": "el cuerpo humano",
+        "translation": "جسم الإنسان",
+        "example": "El cuerpo humano necesita descanso y una alimentación equilibrada.",
+        "explanation": "مصطلح من محور «العالم الناطق بالإسبانية والبيئة والحياة اليومية»، ويعني «جسم الإنسان». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-016",
+        "term": "la enfermedad",
+        "translation": "المرض",
+        "example": "Algunas enfermedades pueden prevenirse mediante una buena higiene.",
+        "explanation": "مصطلح من محور «العالم الناطق بالإسبانية والبيئة والحياة اليومية»، ويعني «المرض». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-017",
+        "term": "el síntoma",
+        "translation": "العَرَض",
+        "example": "La fiebre puede ser un síntoma de una enfermedad.",
+        "explanation": "مصطلح من محور «العالم الناطق بالإسبانية والبيئة والحياة اليومية»، ويعني «العَرَض». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-018",
+        "term": "el reciclaje",
+        "translation": "إعادة التدوير",
+        "example": "El reciclaje ayuda a reducir la cantidad de residuos.",
+        "explanation": "مصطلح من محور «العالم الناطق بالإسبانية والبيئة والحياة اليومية»، ويعني «إعادة التدوير». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-019",
+        "term": "la capa de ozono",
+        "translation": "طبقة الأوزون",
+        "example": "Debemos proteger la capa de ozono.",
+        "explanation": "مصطلح من محور «العالم الناطق بالإسبانية والبيئة والحياة اليومية»، ويعني «طبقة الأوزون». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-020",
+        "term": "la energía alternativa",
+        "translation": "الطاقة البديلة",
+        "example": "La energía alternativa puede reducir la contaminación.",
+        "explanation": "مصطلح من محور «العالم الناطق بالإسبانية والبيئة والحياة اليومية»، ويعني «الطاقة البديلة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-021",
+        "term": "la juventud",
+        "translation": "الشباب",
+        "example": "La juventud representa una parte importante de la sociedad.",
+        "explanation": "مصطلح من محور «الشباب والعلاقات والمشاعر»، ويعني «الشباب». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-022",
+        "term": "la amistad",
+        "translation": "الصداقة",
+        "example": "La amistad verdadera se basa en la confianza y el respeto.",
+        "explanation": "مصطلح من محور «الشباب والعلاقات والمشاعر»، ويعني «الصداقة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-023",
+        "term": "la relación",
+        "translation": "العلاقة",
+        "example": "Una buena relación necesita comprensión y respeto.",
+        "explanation": "مصطلح من محور «الشباب والعلاقات والمشاعر»، ويعني «العلاقة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-024",
+        "term": "la personalidad",
+        "translation": "الشخصية",
+        "example": "La personalidad influye en nuestra manera de relacionarnos con los demás.",
+        "explanation": "مصطلح من محور «الشباب والعلاقات والمشاعر»، ويعني «الشخصية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-025",
+        "term": "el carácter",
+        "translation": "الطبع / الشخصية",
+        "example": "Tiene un carácter tranquilo y amable.",
+        "explanation": "مصطلح من محور «الشباب والعلاقات والمشاعر»، ويعني «الطبع / الشخصية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-026",
+        "term": "el sentimiento",
+        "translation": "الشعور",
+        "example": "Es importante expresar nuestros sentimientos.",
+        "explanation": "مصطلح من محور «الشباب والعلاقات والمشاعر»، ويعني «الشعور». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-027",
+        "term": "el estado de ánimo",
+        "translation": "الحالة النفسية / المزاج",
+        "example": "El deporte puede mejorar el estado de ánimo.",
+        "explanation": "مصطلح من محور «الشباب والعلاقات والمشاعر»، ويعني «الحالة النفسية / المزاج». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-028",
+        "term": "la afinidad",
+        "translation": "الانسجام / التوافق",
+        "example": "Tenemos muchas afinidades y nos llevamos bien.",
+        "explanation": "مصطلح من محور «الشباب والعلاقات والمشاعر»، ويعني «الانسجام / التوافق». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-029",
+        "term": "el parecido",
+        "translation": "التشابه",
+        "example": "Hay un gran parecido entre los dos hermanos.",
+        "explanation": "مصطلح من محور «الشباب والعلاقات والمشاعر»، ويعني «التشابه». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-030",
+        "term": "la diferencia",
+        "translation": "الاختلاف",
+        "example": "Debemos respetar las diferencias entre las personas.",
+        "explanation": "مصطلح من محور «الشباب والعلاقات والمشاعر»، ويعني «الاختلاف». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-031",
+        "term": "el respeto",
+        "translation": "الاحترام",
+        "example": "El respeto es fundamental en cualquier relación.",
+        "explanation": "مصطلح من محور «الشباب والعلاقات والمشاعر»، ويعني «الاحترام». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-032",
+        "term": "la convivencia",
+        "translation": "التعايش",
+        "example": "La convivencia pacífica necesita tolerancia y respeto.",
+        "explanation": "مصطلح من محور «الشباب والعلاقات والمشاعر»، ويعني «التعايش». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-033",
+        "term": "el tiempo libre",
+        "translation": "وقت الفراغ",
+        "example": "En mi tiempo libre practico deporte.",
+        "explanation": "مصطلح من محور «الشباب والعلاقات والمشاعر»، ويعني «وقت الفراغ». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-034",
+        "term": "el ocio",
+        "translation": "الترفيه",
+        "example": "Los jóvenes necesitan actividades de ocio.",
+        "explanation": "مصطلح من محور «الشباب والعلاقات والمشاعر»، ويعني «الترفيه». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-035",
+        "term": "la actividad física",
+        "translation": "النشاط البدني",
+        "example": "La actividad física es beneficiosa para la salud.",
+        "explanation": "مصطلح من محور «الشباب والعلاقات والمشاعر»، ويعني «النشاط البدني». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-036",
+        "term": "el concierto",
+        "translation": "الحفل الموسيقي",
+        "example": "Fuimos a un concierto de música española.",
+        "explanation": "مصطلح من محور «الشباب والعلاقات والمشاعر»، ويعني «الحفل الموسيقي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-037",
+        "term": "la canción protesta",
+        "translation": "الأغنية الاحتجاجية",
+        "example": "La canción protesta puede expresar problemas sociales.",
+        "explanation": "مصطلح من محور «الشباب والعلاقات والمشاعر»، ويعني «الأغنية الاحتجاجية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-038",
+        "term": "el grupo musical",
+        "translation": "الفرقة الموسيقية",
+        "example": "Mi grupo musical favorito está formado por cinco miembros.",
+        "explanation": "مصطلح من محور «الشباب والعلاقات والمشاعر»، ويعني «الفرقة الموسيقية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-039",
+        "term": "el instrumento musical",
+        "translation": "الآلة الموسيقية",
+        "example": "Aprende a tocar un instrumento musical.",
+        "explanation": "مصطلح من محور «الشباب والعلاقات والمشاعر»، ويعني «الآلة الموسيقية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-040",
+        "term": "el deseo",
+        "translation": "الرغبة / الأمنية",
+        "example": "Todos tenemos deseos para nuestro futuro.",
+        "explanation": "مصطلح من محور «الشباب والعلاقات والمشاعر»، ويعني «الرغبة / الأمنية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-041",
+        "term": "la educación",
+        "translation": "التعليم",
+        "example": "La educación es fundamental para el desarrollo de cualquier sociedad.",
+        "explanation": "مصطلح من محور «التعليم والمواطنة والبيئة»، ويعني «التعليم». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-042",
+        "term": "la enseñanza",
+        "translation": "التدريس",
+        "example": "La enseñanza de idiomas permite conocer otras culturas.",
+        "explanation": "مصطلح من محور «التعليم والمواطنة والبيئة»، ويعني «التدريس». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-043",
+        "term": "el aprendizaje",
+        "translation": "التعلم",
+        "example": "El aprendizaje de una lengua requiere práctica constante.",
+        "explanation": "مصطلح من محور «التعليم والمواطنة والبيئة»، ويعني «التعلم». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-044",
+        "term": "los estudios",
+        "translation": "الدراسة",
+        "example": "Continúa sus estudios en la universidad.",
+        "explanation": "مصطلح من محور «التعليم والمواطنة والبيئة»، ويعني «الدراسة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-045",
+        "term": "la asignatura",
+        "translation": "المادة الدراسية",
+        "example": "El español es una asignatura importante para los alumnos de lenguas extranjeras.",
+        "explanation": "مصطلح من محور «التعليم والمواطنة والبيئة»، ويعني «المادة الدراسية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-046",
+        "term": "la formación",
+        "translation": "التكوين / التكوين العلمي",
+        "example": "Una buena formación facilita el acceso al mundo laboral.",
+        "explanation": "مصطلح من محور «التعليم والمواطنة والبيئة»، ويعني «التكوين / التكوين العلمي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-047",
+        "term": "la universidad",
+        "translation": "الجامعة",
+        "example": "Muchos estudiantes quieren continuar sus estudios en la universidad.",
+        "explanation": "مصطلح من محور «التعليم والمواطنة والبيئة»، ويعني «الجامعة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-048",
+        "term": "la estrategia de aprendizaje",
+        "translation": "استراتيجية التعلم",
+        "example": "Cada alumno puede utilizar una estrategia de aprendizaje diferente.",
+        "explanation": "مصطلح من محور «التعليم والمواطنة والبيئة»، ويعني «استراتيجية التعلم». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-049",
+        "term": "la beca",
+        "translation": "المنحة الدراسية",
+        "example": "Recibió una beca para continuar sus estudios.",
+        "explanation": "مصطلح من محور «التعليم والمواطنة والبيئة»، ويعني «المنحة الدراسية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-050",
+        "term": "el intercambio",
+        "translation": "التبادل",
+        "example": "El intercambio cultural permite conocer otras formas de vida.",
+        "explanation": "مصطلح من محور «التعليم والمواطنة والبيئة»، ويعني «التبادل». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-051",
+        "term": "el idioma",
+        "translation": "اللغة",
+        "example": "Aprender un idioma extranjero abre nuevas oportunidades.",
+        "explanation": "مصطلح من محور «التعليم والمواطنة والبيئة»، ويعني «اللغة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-052",
+        "term": "la ciudadanía",
+        "translation": "المواطنة",
+        "example": "La ciudadanía implica derechos y deberes.",
+        "explanation": "مصطلح من محور «التعليم والمواطنة والبيئة»، ويعني «المواطنة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-053",
+        "term": "el derecho",
+        "translation": "الحق",
+        "example": "Todo ciudadano tiene derecho a la educación.",
+        "explanation": "مصطلح من محور «التعليم والمواطنة والبيئة»، ويعني «الحق». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-054",
+        "term": "el deber",
+        "translation": "الواجب",
+        "example": "Respetar a los demás es un deber de todo ciudadano.",
+        "explanation": "مصطلح من محور «التعليم والمواطنة والبيئة»، ويعني «الواجب». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-055",
+        "term": "la naturaleza",
+        "translation": "الطبيعة",
+        "example": "Debemos respetar y proteger la naturaleza.",
+        "explanation": "مصطلح من محور «التعليم والمواطنة والبيئة»، ويعني «الطبيعة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-056",
+        "term": "la conservación",
+        "translation": "المحافظة / الحماية",
+        "example": "La conservación de los recursos naturales es necesaria.",
+        "explanation": "مصطلح من محور «التعليم والمواطنة والبيئة»، ويعني «المحافظة / الحماية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-057",
+        "term": "el buen ciudadano",
+        "translation": "المواطن الصالح",
+        "example": "El buen ciudadano respeta las leyes y ayuda a su comunidad.",
+        "explanation": "مصطلح من محور «التعليم والمواطنة والبيئة»، ويعني «المواطن الصالح». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-058",
+        "term": "el voluntariado",
+        "translation": "العمل التطوعي",
+        "example": "El voluntariado permite ayudar a las personas necesitadas.",
+        "explanation": "مصطلح من محور «التعليم والمواطنة والبيئة»، ويعني «العمل التطوعي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-059",
+        "term": "la protección",
+        "translation": "الحماية",
+        "example": "La protección del medio ambiente es responsabilidad de todos.",
+        "explanation": "مصطلح من محور «التعليم والمواطنة والبيئة»، ويعني «الحماية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-060",
+        "term": "el futuro del planeta",
+        "translation": "مستقبل الكوكب",
+        "example": "Todos debemos trabajar para garantizar el futuro del planeta.",
+        "explanation": "مصطلح من محور «التعليم والمواطنة والبيئة»، ويعني «مستقبل الكوكب». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-061",
+        "term": "el invento",
+        "translation": "الاختراع",
+        "example": "El teléfono fue uno de los inventos más importantes de la historia.",
+        "explanation": "مصطلح من محور «التكنولوجيا والإنترنت والاختراعات»، ويعني «الاختراع». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-062",
+        "term": "el descubrimiento",
+        "translation": "الاكتشاف",
+        "example": "El descubrimiento científico cambió nuestra manera de comprender el mundo.",
+        "explanation": "مصطلح من محور «التكنولوجيا والإنترنت والاختراعات»، ويعني «الاكتشاف». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-063",
+        "term": "la máquina",
+        "translation": "الآلة",
+        "example": "Esta máquina funciona con energía eléctrica.",
+        "explanation": "مصطلح من محور «التكنولوجيا والإنترنت والاختراعات»، ويعني «الآلة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-064",
+        "term": "el componente",
+        "translation": "المكوّن",
+        "example": "Cada componente de la máquina tiene una función determinada.",
+        "explanation": "مصطلح من محور «التكنولوجيا والإنترنت والاختراعات»، ويعني «المكوّن». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-065",
+        "term": "el funcionamiento",
+        "translation": "طريقة العمل / التشغيل",
+        "example": "El profesor explicó el funcionamiento del aparato.",
+        "explanation": "مصطلح من محور «التكنولوجيا والإنترنت والاختراعات»، ويعني «طريقة العمل / التشغيل». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-066",
+        "term": "la utilidad",
+        "translation": "الفائدة / المنفعة",
+        "example": "La utilidad de Internet es evidente en la vida cotidiana.",
+        "explanation": "مصطلح من محور «التكنولوجيا والإنترنت والاختراعات»، ويعني «الفائدة / المنفعة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-067",
+        "term": "la ciencia",
+        "translation": "العلم",
+        "example": "La ciencia contribuye al progreso de la humanidad.",
+        "explanation": "مصطلح من محور «التكنولوجيا والإنترنت والاختراعات»، ويعني «العلم». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-068",
+        "term": "el avance científico",
+        "translation": "التقدم العلمي",
+        "example": "Los avances científicos han mejorado la medicina.",
+        "explanation": "مصطلح من محور «التكنولوجيا والإنترنت والاختراعات»، ويعني «التقدم العلمي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-069",
+        "term": "la ingeniería genética",
+        "translation": "الهندسة الوراثية",
+        "example": "La ingeniería genética plantea importantes cuestiones científicas y éticas.",
+        "explanation": "مصطلح من محور «التكنولوجيا والإنترنت والاختراعات»، ويعني «الهندسة الوراثية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-070",
+        "term": "la tecnología",
+        "translation": "التكنولوجيا",
+        "example": "La tecnología forma parte de nuestra vida cotidiana.",
+        "explanation": "مصطلح من محور «التكنولوجيا والإنترنت والاختراعات»، ويعني «التكنولوجيا». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-071",
+        "term": "Internet",
+        "translation": "الإنترنت",
+        "example": "Internet facilita el acceso a la información.",
+        "explanation": "مصطلح من محور «التكنولوجيا والإنترنت والاختراعات»، ويعني «الإنترنت». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-072",
+        "term": "la red social",
+        "translation": "شبكة التواصل الاجتماعي",
+        "example": "Una red social permite comunicarse con personas de diferentes países.",
+        "explanation": "مصطلح من محور «التكنولوجيا والإنترنت والاختراعات»، ويعني «شبكة التواصل الاجتماعي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-073",
+        "term": "la página web",
+        "translation": "صفحة الويب",
+        "example": "La universidad tiene una página web oficial.",
+        "explanation": "مصطلح من محور «التكنولوجيا والإنترنت والاختراعات»، ويعني «صفحة الويب». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-074",
+        "term": "el correo electrónico",
+        "translation": "البريد الإلكتروني",
+        "example": "Envié el documento por correo electrónico.",
+        "explanation": "مصطلح من محور «التكنولوجيا والإنترنت والاختراعات»، ويعني «البريد الإلكتروني». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-075",
+        "term": "el buscador",
+        "translation": "محرك البحث",
+        "example": "Utilizamos un buscador para encontrar información.",
+        "explanation": "مصطلح من محور «التكنولوجيا والإنترنت والاختراعات»، ويعني «محرك البحث». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-076",
+        "term": "la contraseña",
+        "translation": "كلمة المرور",
+        "example": "Nunca debes compartir tu contraseña personal.",
+        "explanation": "مصطلح من محور «التكنولوجيا والإنترنت والاختراعات»، ويعني «كلمة المرور». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-077",
+        "term": "el usuario",
+        "translation": "المستخدم",
+        "example": "Cada usuario necesita una cuenta para acceder al servicio.",
+        "explanation": "مصطلح من محور «التكنولوجيا والإنترنت والاختراعات»، ويعني «المستخدم». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-078",
+        "term": "descargar",
+        "translation": "يحمّل",
+        "example": "Puedes descargar el documento desde la página web.",
+        "explanation": "مصطلح من محور «التكنولوجيا والإنترنت والاختراعات»، ويعني «يحمّل». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-079",
+        "term": "el archivo",
+        "translation": "الملف",
+        "example": "Guardé el archivo en mi ordenador.",
+        "explanation": "مصطلح من محور «التكنولوجيا والإنترنت والاختراعات»، ويعني «الملف». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-080",
+        "term": "la ventaja",
+        "translation": "الميزة",
+        "example": "Una de las ventajas de Internet es la rapidez de la comunicación.",
+        "explanation": "مصطلح من محور «التكنولوجيا والإنترنت والاختراعات»، ويعني «الميزة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-081",
+        "term": "la profesión",
+        "translation": "المهنة",
+        "example": "Elegir una profesión adecuada es una decisión importante.",
+        "explanation": "مصطلح من محور «العمل والمهن والمؤسسة»، ويعني «المهنة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-082",
+        "term": "el oficio",
+        "translation": "الحرفة / المهنة",
+        "example": "La artesanía es un oficio que requiere experiencia.",
+        "explanation": "مصطلح من محور «العمل والمهن والمؤسسة»، ويعني «الحرفة / المهنة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-083",
+        "term": "el empleo",
+        "translation": "العمل / الوظيفة",
+        "example": "Encontrar un empleo puede ser difícil para algunos jóvenes.",
+        "explanation": "مصطلح من محور «العمل والمهن والمؤسسة»، ويعني «العمل / الوظيفة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-084",
+        "term": "el desempleo",
+        "translation": "البطالة",
+        "example": "El desempleo afecta especialmente a los jóvenes.",
+        "explanation": "مصطلح من محور «العمل والمهن والمؤسسة»، ويعني «البطالة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-085",
+        "term": "la empresa",
+        "translation": "المؤسسة / الشركة",
+        "example": "La empresa necesita nuevos trabajadores.",
+        "explanation": "مصطلح من محور «العمل والمهن والمؤسسة»، ويعني «المؤسسة / الشركة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-086",
+        "term": "el empresario",
+        "translation": "رجل الأعمال / صاحب المؤسسة",
+        "example": "El empresario presentó un nuevo proyecto.",
+        "explanation": "مصطلح من محور «العمل والمهن والمؤسسة»، ويعني «رجل الأعمال / صاحب المؤسسة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-087",
+        "term": "el trabajador",
+        "translation": "العامل",
+        "example": "El trabajador debe respetar las normas de seguridad.",
+        "explanation": "مصطلح من محور «العمل والمهن والمؤسسة»، ويعني «العامل». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-088",
+        "term": "el puesto de trabajo",
+        "translation": "منصب العمل",
+        "example": "Consiguió un puesto de trabajo después de la entrevista.",
+        "explanation": "مصطلح من محور «العمل والمهن والمؤسسة»، ويعني «منصب العمل». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-089",
+        "term": "la cualidad",
+        "translation": "الصفة / الميزة",
+        "example": "La responsabilidad es una cualidad importante en el trabajo.",
+        "explanation": "مصطلح من محور «العمل والمهن والمؤسسة»، ويعني «الصفة / الميزة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-090",
+        "term": "la aptitud",
+        "translation": "الكفاءة / الاستعداد",
+        "example": "La comunicación es una aptitud necesaria para esta profesión.",
+        "explanation": "مصطلح من محور «العمل والمهن والمؤسسة»، ويعني «الكفاءة / الاستعداد». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-091",
+        "term": "la habilidad",
+        "translation": "المهارة",
+        "example": "Tiene buenas habilidades para trabajar en equipo.",
+        "explanation": "مصطلح من محور «العمل والمهن والمؤسسة»، ويعني «المهارة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-092",
+        "term": "la formación profesional",
+        "translation": "التكوين المهني",
+        "example": "La formación profesional prepara a los jóvenes para el mercado laboral.",
+        "explanation": "مصطلح من محور «العمل والمهن والمؤسسة»، ويعني «التكوين المهني». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-093",
+        "term": "el currículum vitae",
+        "translation": "السيرة الذاتية",
+        "example": "Envió su currículum vitae a varias empresas.",
+        "explanation": "مصطلح من محور «العمل والمهن والمؤسسة»، ويعني «السيرة الذاتية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-094",
+        "term": "la oferta de trabajo",
+        "translation": "عرض العمل",
+        "example": "Encontré una oferta de trabajo en Internet.",
+        "explanation": "مصطلح من محور «العمل والمهن والمؤسسة»، ويعني «عرض العمل». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-095",
+        "term": "la entrevista de trabajo",
+        "translation": "مقابلة العمل",
+        "example": "Mañana tengo una entrevista de trabajo.",
+        "explanation": "مصطلح من محور «العمل والمهن والمؤسسة»، ويعني «مقابلة العمل». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-096",
+        "term": "el salario",
+        "translation": "الراتب",
+        "example": "El salario depende de la experiencia y de la profesión.",
+        "explanation": "مصطلح من محور «العمل والمهن والمؤسسة»، ويعني «الراتب». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-097",
+        "term": "el horario de trabajo",
+        "translation": "ساعات العمل",
+        "example": "El horario de trabajo comienza a las ocho de la mañana.",
+        "explanation": "مصطلح من محور «العمل والمهن والمؤسسة»، ويعني «ساعات العمل». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-098",
+        "term": "las condiciones de trabajo",
+        "translation": "ظروف العمل",
+        "example": "Las buenas condiciones de trabajo aumentan la productividad.",
+        "explanation": "مصطلح من محور «العمل والمهن والمؤسسة»، ويعني «ظروف العمل». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-099",
+        "term": "la experiencia laboral",
+        "translation": "الخبرة المهنية",
+        "example": "La experiencia laboral puede facilitar la búsqueda de empleo.",
+        "explanation": "مصطلح من محور «العمل والمهن والمؤسسة»، ويعني «الخبرة المهنية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "sp-100",
+        "term": "el organigrama",
+        "translation": "الهيكل التنظيمي",
+        "example": "El organigrama muestra la estructura de la empresa.",
+        "explanation": "مصطلح من محور «العمل والمهن والمؤسسة»، ويعني «الهيكل التنظيمي». وتوضح الجملة استعماله في هذا السياق."
+      }
+    ]
+  },
+  "english": {
+    "label": "الإنجليزية",
+    "icon": "🇬🇧",
+    "kind": "language",
+    "items": [
+      {
+        "id": "en-001",
+        "term": "civilization",
+        "translation": "حضارة",
+        "example": "Ancient Egypt was one of the greatest civilizations in history.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «حضارة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-002",
+        "term": "ancient",
+        "translation": "قديم / عريق",
+        "example": "The Romans built many ancient cities.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «قديم / عريق». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-003",
+        "term": "empire",
+        "translation": "إمبراطورية",
+        "example": "The Roman Empire controlled a large part of Europe.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «إمبراطورية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-004",
+        "term": "dynasty",
+        "translation": "سلالة حاكمة",
+        "example": "The pharaoh belonged to an ancient Egyptian dynasty.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «سلالة حاكمة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-005",
+        "term": "pharaoh",
+        "translation": "فرعون",
+        "example": "The pharaoh was considered the ruler of ancient Egypt.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «فرعون». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-006",
+        "term": "archaeologist",
+        "translation": "عالم آثار",
+        "example": "The archaeologist discovered an ancient tomb.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «عالم آثار». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-007",
+        "term": "archaeological site",
+        "translation": "موقع أثري",
+        "example": "Tourists visited the archaeological site near the city.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «موقع أثري». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-008",
+        "term": "monument",
+        "translation": "معلم / نصب تذكاري",
+        "example": "The monument attracts thousands of visitors every year.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «معلم / نصب تذكاري». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-009",
+        "term": "pyramid",
+        "translation": "هرم",
+        "example": "The pyramids were built as monumental tombs.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «هرم». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-010",
+        "term": "temple",
+        "translation": "معبد",
+        "example": "The ancient people built a large temple for their gods.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «معبد». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-011",
+        "term": "tomb",
+        "translation": "قبر / مقبرة",
+        "example": "Archaeologists discovered a royal tomb.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «قبر / مقبرة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-012",
+        "term": "ruins",
+        "translation": "أطلال",
+        "example": "The ruins show how advanced the civilization was.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «أطلال». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-013",
+        "term": "inscription",
+        "translation": "نقش / كتابة أثرية",
+        "example": "The inscription was written in an ancient language.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «نقش / كتابة أثرية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-014",
+        "term": "artifact",
+        "translation": "قطعة أثرية",
+        "example": "The museum contains many valuable artifacts.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «قطعة أثرية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-015",
+        "term": "heritage",
+        "translation": "تراث",
+        "example": "UNESCO works to preserve world heritage.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «تراث». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-016",
+        "term": "conquer",
+        "translation": "يغزو / يفتح",
+        "example": "The army managed to conquer the neighbouring territory.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «يغزو / يفتح». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-017",
+        "term": "settle",
+        "translation": "يستقر",
+        "example": "The ancient people settled near the river.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «يستقر». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-018",
+        "term": "reign",
+        "translation": "فترة حكم",
+        "example": "The king had a long reign.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «فترة حكم». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-019",
+        "term": "invention",
+        "translation": "اختراع",
+        "example": "Writing was a major invention in human history.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «اختراع». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-020",
+        "term": "preserve",
+        "translation": "يحافظ على",
+        "example": "We must preserve historical monuments for future generations.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «يحافظ على». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-021",
+        "term": "worship",
+        "translation": "يعبد",
+        "example": "Ancient Egyptians worshipped many gods.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «يعبد». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-022",
+        "term": "trade",
+        "translation": "التجارة",
+        "example": "Trade helped ancient civilizations become prosperous.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «التجارة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-023",
+        "term": "agriculture",
+        "translation": "الزراعة",
+        "example": "Agriculture developed rapidly near the Nile River.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «الزراعة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-024",
+        "term": "prosperous",
+        "translation": "مزدهر",
+        "example": "The city became prosperous because of trade.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «مزدهر». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-025",
+        "term": "legacy",
+        "translation": "إرث / إرث حضاري",
+        "example": "Ancient civilizations left a rich cultural legacy.",
+        "explanation": "مصطلح من محور «الحضارات القديمة واستكشاف الماضي»، ويعني «إرث / إرث حضاري». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-026",
+        "term": "ethics",
+        "translation": "الأخلاق",
+        "example": "Business ethics are essential for a trustworthy company.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «الأخلاق». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-027",
+        "term": "corruption",
+        "translation": "الفساد",
+        "example": "Corruption can damage the development of a country.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «الفساد». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-028",
+        "term": "fraud",
+        "translation": "الاحتيال / الغش",
+        "example": "Fraud can cause serious financial losses.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «الاحتيال / الغش». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-029",
+        "term": "bribery",
+        "translation": "الرشوة",
+        "example": "Bribery is illegal in many countries.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «الرشوة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-030",
+        "term": "bribe",
+        "translation": "رشوة",
+        "example": "The businessman offered a bribe to the official.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «رشوة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-031",
+        "term": "counterfeit",
+        "translation": "مزيّف",
+        "example": "The police discovered a factory producing counterfeit products.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «مزيّف». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-032",
+        "term": "forgery",
+        "translation": "التزوير",
+        "example": "The company was accused of document forgery.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «التزوير». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-033",
+        "term": "cheating",
+        "translation": "الغش",
+        "example": "Cheating is unfair and dishonest.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «الغش». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-034",
+        "term": "dishonesty",
+        "translation": "عدم الأمانة",
+        "example": "Dishonesty can destroy trust between business partners.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «عدم الأمانة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-035",
+        "term": "illegal",
+        "translation": "غير قانوني",
+        "example": "Selling counterfeit products is illegal.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «غير قانوني». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-036",
+        "term": "legal",
+        "translation": "قانوني",
+        "example": "Companies must operate according to legal regulations.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «قانوني». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-037",
+        "term": "crime",
+        "translation": "جريمة",
+        "example": "Economic crime can affect the whole society.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «جريمة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-038",
+        "term": "criminal",
+        "translation": "مجرم",
+        "example": "The criminal was arrested by the police.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «مجرم». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-039",
+        "term": "victim",
+        "translation": "ضحية",
+        "example": "Many people became victims of the fraud.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «ضحية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-040",
+        "term": "scandal",
+        "translation": "فضيحة",
+        "example": "The corruption scandal attracted public attention.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «فضيحة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-041",
+        "term": "tax evasion",
+        "translation": "التهرب الضريبي",
+        "example": "Tax evasion can deprive governments of important revenues.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «التهرب الضريبي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-042",
+        "term": "money laundering",
+        "translation": "غسل الأموال",
+        "example": "Money laundering is a serious financial crime.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «غسل الأموال». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-043",
+        "term": "profit",
+        "translation": "ربح",
+        "example": "The company made a large profit last year.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «ربح». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-044",
+        "term": "loss",
+        "translation": "خسارة",
+        "example": "The fraud caused a significant financial loss.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «خسارة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-045",
+        "term": "consumer",
+        "translation": "مستهلك",
+        "example": "Every consumer has the right to receive safe products.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «مستهلك». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-046",
+        "term": "company",
+        "translation": "شركة / مؤسسة",
+        "example": "The company follows strict ethical rules.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «شركة / مؤسسة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-047",
+        "term": "employee",
+        "translation": "موظف / عامل",
+        "example": "Every employee must respect the company's regulations.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «موظف / عامل». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-048",
+        "term": "employer",
+        "translation": "صاحب العمل",
+        "example": "The employer is responsible for providing safe working conditions.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «صاحب العمل». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-049",
+        "term": "trustworthy",
+        "translation": "جدير بالثقة",
+        "example": "A trustworthy company respects its customers.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «جدير بالثقة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-050",
+        "term": "transparency",
+        "translation": "الشفافية",
+        "example": "Transparency helps prevent corruption.",
+        "explanation": "مصطلح من محور «أخلاقيات الأعمال والغش والفساد والجرائم الاقتصادية»، ويعني «الشفافية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-051",
+        "term": "education",
+        "translation": "التعليم",
+        "example": "Education plays a vital role in the development of society.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «التعليم». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-052",
+        "term": "educational system",
+        "translation": "النظام التعليمي",
+        "example": "Each country has its own educational system.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «النظام التعليمي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-053",
+        "term": "schooling",
+        "translation": "التمدرس",
+        "example": "Schooling is compulsory in many countries.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «التمدرس». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-054",
+        "term": "curriculum",
+        "translation": "المنهاج الدراسي",
+        "example": "The curriculum includes several subjects.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «المنهاج الدراسي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-055",
+        "term": "subject",
+        "translation": "مادة دراسية",
+        "example": "English is an important subject for foreign language students.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «مادة دراسية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-056",
+        "term": "teacher",
+        "translation": "أستاذ",
+        "example": "The teacher explained the lesson clearly.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «أستاذ». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-057",
+        "term": "learner",
+        "translation": "متعلم",
+        "example": "Every learner has different needs.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «متعلم». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-058",
+        "term": "pupil",
+        "translation": "تلميذ",
+        "example": "The pupil completed the exercise successfully.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «تلميذ». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-059",
+        "term": "classroom",
+        "translation": "قسم / حجرة الدراسة",
+        "example": "The students are working in the classroom.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «قسم / حجرة الدراسة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-060",
+        "term": "school facilities",
+        "translation": "مرافق المدرسة",
+        "example": "Good school facilities improve the learning environment.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «مرافق المدرسة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-061",
+        "term": "literacy",
+        "translation": "محو الأمية / معرفة القراءة والكتابة",
+        "example": "Education can help reduce illiteracy.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «محو الأمية / معرفة القراءة والكتابة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-062",
+        "term": "illiteracy",
+        "translation": "الأمية",
+        "example": "Illiteracy remains a challenge in some regions.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «الأمية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-063",
+        "term": "compulsory education",
+        "translation": "التعليم الإلزامي",
+        "example": "Compulsory education guarantees basic schooling for children.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «التعليم الإلزامي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-064",
+        "term": "higher education",
+        "translation": "التعليم العالي",
+        "example": "Many students continue their studies in higher education.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «التعليم العالي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-065",
+        "term": "university",
+        "translation": "الجامعة",
+        "example": "She wants to study engineering at university.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «الجامعة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-066",
+        "term": "scholarship",
+        "translation": "منحة دراسية",
+        "example": "He received a scholarship to study abroad.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «منحة دراسية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-067",
+        "term": "examination",
+        "translation": "امتحان",
+        "example": "Students are preparing for the final examination.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «امتحان». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-068",
+        "term": "assessment",
+        "translation": "تقييم",
+        "example": "Continuous assessment helps teachers follow students' progress.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «تقييم». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-069",
+        "term": "achievement",
+        "translation": "إنجاز / تحصيل",
+        "example": "Good academic achievement requires regular work.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «إنجاز / تحصيل». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-070",
+        "term": "dropout",
+        "translation": "متسرب من الدراسة",
+        "example": "Poverty can sometimes lead to school dropout.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «متسرب من الدراسة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-071",
+        "term": "equal opportunities",
+        "translation": "فرص متساوية",
+        "example": "Every child should have equal opportunities in education.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «فرص متساوية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-072",
+        "term": "distance learning",
+        "translation": "التعليم عن بعد",
+        "example": "Distance learning became more common with modern technology.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «التعليم عن بعد». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-073",
+        "term": "academic performance",
+        "translation": "الأداء الدراسي",
+        "example": "Regular revision can improve academic performance.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «الأداء الدراسي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-074",
+        "term": "vocational training",
+        "translation": "التكوين المهني",
+        "example": "Vocational training prepares young people for the labour market.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «التكوين المهني». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-075",
+        "term": "knowledge",
+        "translation": "المعرفة",
+        "example": "Education gives students knowledge and useful skills.",
+        "explanation": "مصطلح من محور «التعليم والمدرسة والأنظمة التعليمية»، ويعني «المعرفة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-076",
+        "term": "family",
+        "translation": "العائلة",
+        "example": "Family plays an important role in a person's life.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «العائلة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-077",
+        "term": "relationship",
+        "translation": "علاقة",
+        "example": "A healthy relationship is based on respect and trust.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «علاقة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-078",
+        "term": "friendship",
+        "translation": "صداقة",
+        "example": "True friendship requires honesty and loyalty.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «صداقة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-079",
+        "term": "affection",
+        "translation": "مودة / عاطفة",
+        "example": "Children need affection and care from their families.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «مودة / عاطفة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-080",
+        "term": "love",
+        "translation": "الحب",
+        "example": "Love and respect strengthen family relationships.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «الحب». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-081",
+        "term": "respect",
+        "translation": "الاحترام",
+        "example": "Mutual respect is necessary for a good relationship.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «الاحترام». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-082",
+        "term": "trust",
+        "translation": "الثقة",
+        "example": "Trust is essential between friends.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «الثقة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-083",
+        "term": "loyalty",
+        "translation": "الوفاء",
+        "example": "Loyalty is an important quality in friendship.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «الوفاء». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-084",
+        "term": "happiness",
+        "translation": "السعادة",
+        "example": "Family support can bring happiness to people.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «السعادة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-085",
+        "term": "sadness",
+        "translation": "الحزن",
+        "example": "Sadness is a natural human emotion.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «الحزن». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-086",
+        "term": "anger",
+        "translation": "الغضب",
+        "example": "He expressed his anger without hurting anyone.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «الغضب». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-087",
+        "term": "fear",
+        "translation": "الخوف",
+        "example": "Fear is a normal reaction to danger.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «الخوف». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-088",
+        "term": "jealousy",
+        "translation": "الغيرة",
+        "example": "Jealousy can sometimes damage relationships.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «الغيرة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-089",
+        "term": "hope",
+        "translation": "الأمل",
+        "example": "Education gives young people hope for a better future.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «الأمل». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-090",
+        "term": "emotion",
+        "translation": "عاطفة / انفعال",
+        "example": "Music can produce strong emotions.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «عاطفة / انفعال». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-091",
+        "term": "feeling",
+        "translation": "شعور",
+        "example": "Everyone has the right to express their feelings.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «شعور». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-092",
+        "term": "humour",
+        "translation": "الفكاهة",
+        "example": "Humour can make difficult situations easier.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «الفكاهة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-093",
+        "term": "personality",
+        "translation": "الشخصية",
+        "example": "Personality influences the way people behave.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «الشخصية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-094",
+        "term": "behaviour",
+        "translation": "السلوك",
+        "example": "Parents have an important influence on children's behaviour.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «السلوك». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-095",
+        "term": "attitude",
+        "translation": "موقف / سلوك تجاه شيء",
+        "example": "A positive attitude can help students overcome difficulties.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «موقف / سلوك تجاه شيء». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-096",
+        "term": "tolerance",
+        "translation": "التسامح",
+        "example": "Tolerance is necessary for peaceful coexistence.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «التسامح». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-097",
+        "term": "understanding",
+        "translation": "التفهم",
+        "example": "Mutual understanding can solve many family problems.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «التفهم». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-098",
+        "term": "sympathy",
+        "translation": "التعاطف",
+        "example": "She showed sympathy for her friend's difficulties.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «التعاطف». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-099",
+        "term": "generosity",
+        "translation": "الكرم",
+        "example": "Generosity is a quality that makes people appreciate each other.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «الكرم». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "en-100",
+        "term": "responsibility",
+        "translation": "المسؤولية",
+        "example": "Parents have a great responsibility towards their children.",
+        "explanation": "مصطلح من محور «العائلة والمشاعر والعلاقات»، ويعني «المسؤولية». وتوضح الجملة استعماله في هذا السياق."
+      }
+    ]
+  },
+  "french": {
+    "label": "الفرنسية",
+    "icon": "🇫🇷",
+    "kind": "language",
+    "items": [
+      {
+        "id": "fr-001",
+        "term": "le patrimoine",
+        "translation": "التراث",
+        "example": "Le patrimoine culturel constitue une partie essentielle de l’identité d’un peuple.",
+        "explanation": "مصطلح من محور «التراث والتاريخ والثقافة»، ويعني «التراث». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-002",
+        "term": "le patrimoine matériel",
+        "translation": "التراث المادي",
+        "example": "Les monuments historiques font partie du patrimoine matériel.",
+        "explanation": "مصطلح من محور «التراث والتاريخ والثقافة»، ويعني «التراث المادي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-003",
+        "term": "le patrimoine immatériel",
+        "translation": "التراث غير المادي",
+        "example": "Les traditions et les savoir-faire appartiennent au patrimoine immatériel.",
+        "explanation": "مصطلح من محور «التراث والتاريخ والثقافة»، ويعني «التراث غير المادي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-004",
+        "term": "le monument historique",
+        "translation": "المعلم التاريخي",
+        "example": "Ce monument historique attire de nombreux visiteurs.",
+        "explanation": "مصطلح من محور «التراث والتاريخ والثقافة»، ويعني «المعلم التاريخي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-005",
+        "term": "le site archéologique",
+        "translation": "الموقع الأثري",
+        "example": "Les archéologues ont découvert un nouveau site archéologique.",
+        "explanation": "مصطلح من محور «التراث والتاريخ والثقافة»، ويعني «الموقع الأثري». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-006",
+        "term": "les vestiges",
+        "translation": "الآثار / البقايا",
+        "example": "Les vestiges témoignent de l’existence d’une ancienne civilisation.",
+        "explanation": "مصطلح من محور «التراث والتاريخ والثقافة»، ويعني «الآثار / البقايا». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-007",
+        "term": "la civilisation",
+        "translation": "الحضارة",
+        "example": "Cette civilisation a laissé un riche patrimoine culturel.",
+        "explanation": "مصطلح من محور «التراث والتاريخ والثقافة»، ويعني «الحضارة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-008",
+        "term": "l’archéologue",
+        "translation": "عالم الآثار",
+        "example": "L’archéologue étudie les objets retrouvés sur le site.",
+        "explanation": "مصطلح من محور «التراث والتاريخ والثقافة»، ويعني «عالم الآثار». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-009",
+        "term": "la découverte",
+        "translation": "الاكتشاف",
+        "example": "Cette découverte a permis de mieux connaître l’histoire de la région.",
+        "explanation": "مصطلح من محور «التراث والتاريخ والثقافة»، ويعني «الاكتشاف». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-010",
+        "term": "la conservation",
+        "translation": "المحافظة",
+        "example": "La conservation des monuments historiques est une responsabilité collective.",
+        "explanation": "مصطلح من محور «التراث والتاريخ والثقافة»، ويعني «المحافظة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-011",
+        "term": "la restauration",
+        "translation": "الترميم",
+        "example": "La restauration du monument a duré plusieurs années.",
+        "explanation": "مصطلح من محور «التراث والتاريخ والثقافة»، ويعني «الترميم». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-012",
+        "term": "préserver",
+        "translation": "يحافظ على",
+        "example": "Il faut préserver le patrimoine pour les générations futures.",
+        "explanation": "مصطلح من محور «التراث والتاريخ والثقافة»، ويعني «يحافظ على». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-013",
+        "term": "transmettre",
+        "translation": "ينقل / يورث",
+        "example": "Les parents transmettent les traditions à leurs enfants.",
+        "explanation": "مصطلح من محور «التراث والتاريخ والثقافة»، ويعني «ينقل / يورث». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-014",
+        "term": "l’identité culturelle",
+        "translation": "الهوية الثقافية",
+        "example": "La langue contribue à préserver l’identité culturelle d’un peuple.",
+        "explanation": "مصطلح من محور «التراث والتاريخ والثقافة»، ويعني «الهوية الثقافية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-015",
+        "term": "la tradition",
+        "translation": "التقليد",
+        "example": "Cette tradition est encore pratiquée dans plusieurs régions.",
+        "explanation": "مصطلح من محور «التراث والتاريخ والثقافة»، ويعني «التقليد». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-016",
+        "term": "la coutume",
+        "translation": "العادة",
+        "example": "Chaque région possède ses propres coutumes.",
+        "explanation": "مصطلح من محور «التراث والتاريخ والثقافة»، ويعني «العادة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-017",
+        "term": "le patrimoine mondial",
+        "translation": "التراث العالمي",
+        "example": "Certains sites algériens font partie du patrimoine mondial.",
+        "explanation": "مصطلح من محور «التراث والتاريخ والثقافة»، ويعني «التراث العالمي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-018",
+        "term": "la mémoire collective",
+        "translation": "الذاكرة الجماعية",
+        "example": "Les monuments contribuent à préserver la mémoire collective.",
+        "explanation": "مصطلح من محور «التراث والتاريخ والثقافة»، ويعني «الذاكرة الجماعية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-019",
+        "term": "l’héritage",
+        "translation": "الإرث",
+        "example": "Les jeunes doivent connaître l’héritage culturel de leur pays.",
+        "explanation": "مصطلح من محور «التراث والتاريخ والثقافة»، ويعني «الإرث». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-020",
+        "term": "la diversité culturelle",
+        "translation": "التنوع الثقافي",
+        "example": "La diversité culturelle constitue une richesse pour l’humanité.",
+        "explanation": "مصطلح من محور «التراث والتاريخ والثقافة»، ويعني «التنوع الثقافي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-021",
+        "term": "l’environnement",
+        "translation": "البيئة",
+        "example": "La protection de l’environnement concerne toute la société.",
+        "explanation": "مصطلح من محور «البيئة والمشكلات البيئية»، ويعني «البيئة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-022",
+        "term": "la pollution",
+        "translation": "التلوث",
+        "example": "La pollution de l’air menace la santé des populations.",
+        "explanation": "مصطلح من محور «البيئة والمشكلات البيئية»، ويعني «التلوث». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-023",
+        "term": "le changement climatique",
+        "translation": "التغير المناخي",
+        "example": "Le changement climatique affecte plusieurs régions du monde.",
+        "explanation": "مصطلح من محور «البيئة والمشكلات البيئية»، ويعني «التغير المناخي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-024",
+        "term": "le réchauffement climatique",
+        "translation": "الاحتباس الحراري",
+        "example": "Le réchauffement climatique provoque une augmentation des températures.",
+        "explanation": "مصطلح من محور «البيئة والمشكلات البيئية»، ويعني «الاحتباس الحراري». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-025",
+        "term": "la biodiversité",
+        "translation": "التنوع البيولوجي",
+        "example": "La pollution menace la biodiversité dans de nombreuses régions.",
+        "explanation": "مصطلح من محور «البيئة والمشكلات البيئية»، ويعني «التنوع البيولوجي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-026",
+        "term": "la déforestation",
+        "translation": "إزالة الغابات",
+        "example": "La déforestation détruit les habitats de nombreuses espèces.",
+        "explanation": "مصطلح من محور «البيئة والمشكلات البيئية»، ويعني «إزالة الغابات». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-027",
+        "term": "la désertification",
+        "translation": "التصحر",
+        "example": "La désertification constitue un problème majeur dans les régions arides.",
+        "explanation": "مصطلح من محور «البيئة والمشكلات البيئية»، ويعني «التصحر». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-028",
+        "term": "la sécheresse",
+        "translation": "الجفاف",
+        "example": "La sécheresse peut provoquer une grave pénurie d’eau.",
+        "explanation": "مصطلح من محور «البيئة والمشكلات البيئية»، ويعني «الجفاف». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-029",
+        "term": "la ressource naturelle",
+        "translation": "المورد الطبيعي",
+        "example": "L’eau est une ressource naturelle indispensable.",
+        "explanation": "مصطلح من محور «البيئة والمشكلات البيئية»، ويعني «المورد الطبيعي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-030",
+        "term": "les énergies renouvelables",
+        "translation": "الطاقات المتجددة",
+        "example": "Les énergies renouvelables peuvent réduire la dépendance aux combustibles fossiles.",
+        "explanation": "مصطلح من محور «البيئة والمشكلات البيئية»، ويعني «الطاقات المتجددة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-031",
+        "term": "le développement durable",
+        "translation": "التنمية المستدامة",
+        "example": "Le développement durable cherche à protéger les ressources pour l’avenir.",
+        "explanation": "مصطلح من محور «البيئة والمشكلات البيئية»، ويعني «التنمية المستدامة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-032",
+        "term": "le recyclage",
+        "translation": "إعادة التدوير",
+        "example": "Le recyclage permet de réduire la quantité de déchets.",
+        "explanation": "مصطلح من محور «البيئة والمشكلات البيئية»، ويعني «إعادة التدوير». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-033",
+        "term": "les déchets",
+        "translation": "النفايات",
+        "example": "Les déchets ménagers doivent être correctement traités.",
+        "explanation": "مصطلح من محور «البيئة والمشكلات البيئية»، ويعني «النفايات». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-034",
+        "term": "la dégradation",
+        "translation": "التدهور",
+        "example": "La dégradation de l’environnement est devenue préoccupante.",
+        "explanation": "مصطلح من محور «البيئة والمشكلات البيئية»، ويعني «التدهور». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-035",
+        "term": "la protection de la nature",
+        "translation": "حماية الطبيعة",
+        "example": "La protection de la nature nécessite la participation de tous.",
+        "explanation": "مصطلح من محور «البيئة والمشكلات البيئية»، ويعني «حماية الطبيعة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-036",
+        "term": "la faune",
+        "translation": "الحيوانات / الحياة الحيوانية",
+        "example": "La pollution menace la faune sauvage.",
+        "explanation": "مصطلح من محور «البيئة والمشكلات البيئية»، ويعني «الحيوانات / الحياة الحيوانية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-037",
+        "term": "la flore",
+        "translation": "النباتات / الحياة النباتية",
+        "example": "La sécheresse peut détruire une grande partie de la flore.",
+        "explanation": "مصطلح من محور «البيئة والمشكلات البيئية»، ويعني «النباتات / الحياة النباتية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-038",
+        "term": "la catastrophe naturelle",
+        "translation": "الكارثة الطبيعية",
+        "example": "Les inondations peuvent provoquer une catastrophe naturelle majeure.",
+        "explanation": "مصطلح من محور «البيئة والمشكلات البيئية»، ويعني «الكارثة الطبيعية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-039",
+        "term": "la pénurie d’eau",
+        "translation": "ندرة المياه",
+        "example": "Certaines régions souffrent d’une pénurie d’eau.",
+        "explanation": "مصطلح من محور «البيئة والمشكلات البيئية»، ويعني «ندرة المياه». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-040",
+        "term": "sensibiliser",
+        "translation": "يوعّي",
+        "example": "Il faut sensibiliser les citoyens aux dangers de la pollution.",
+        "explanation": "مصطلح من محور «البيئة والمشكلات البيئية»، ويعني «يوعّي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-041",
+        "term": "la science",
+        "translation": "العلم",
+        "example": "La science contribue au progrès de l’humanité.",
+        "explanation": "مصطلح من محور «العلم والتكنولوجيا الحديثة»، ويعني «العلم». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-042",
+        "term": "la recherche scientifique",
+        "translation": "البحث العلمي",
+        "example": "La recherche scientifique permet de trouver de nouvelles solutions.",
+        "explanation": "مصطلح من محور «العلم والتكنولوجيا الحديثة»، ويعني «البحث العلمي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-043",
+        "term": "l’innovation",
+        "translation": "الابتكار",
+        "example": "L’innovation joue un rôle important dans le développement économique.",
+        "explanation": "مصطلح من محور «العلم والتكنولوجيا الحديثة»، ويعني «الابتكار». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-044",
+        "term": "la technologie",
+        "translation": "التكنولوجيا",
+        "example": "La technologie a transformé notre manière de communiquer.",
+        "explanation": "مصطلح من محور «العلم والتكنولوجيا الحديثة»، ويعني «التكنولوجيا». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-045",
+        "term": "le progrès scientifique",
+        "translation": "التقدم العلمي",
+        "example": "Le progrès scientifique a amélioré les conditions de vie.",
+        "explanation": "مصطلح من محور «العلم والتكنولوجيا الحديثة»، ويعني «التقدم العلمي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-046",
+        "term": "l’invention",
+        "translation": "الاختراع",
+        "example": "Cette invention a révolutionné le domaine des communications.",
+        "explanation": "مصطلح من محور «العلم والتكنولوجيا الحديثة»، ويعني «الاختراع». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-047",
+        "term": "le chercheur",
+        "translation": "الباحث",
+        "example": "Le chercheur travaille sur une nouvelle solution médicale.",
+        "explanation": "مصطلح من محور «العلم والتكنولوجيا الحديثة»، ويعني «الباحث». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-048",
+        "term": "la découverte scientifique",
+        "translation": "الاكتشاف العلمي",
+        "example": "Cette découverte scientifique a suscité beaucoup d’intérêt.",
+        "explanation": "مصطلح من محور «العلم والتكنولوجيا الحديثة»، ويعني «الاكتشاف العلمي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-049",
+        "term": "l’intelligence artificielle",
+        "translation": "الذكاء الاصطناعي",
+        "example": "L’intelligence artificielle transforme progressivement plusieurs secteurs.",
+        "explanation": "مصطلح من محور «العلم والتكنولوجيا الحديثة»، ويعني «الذكاء الاصطناعي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-050",
+        "term": "le numérique",
+        "translation": "المجال الرقمي",
+        "example": "Le numérique occupe une place importante dans l’éducation moderne.",
+        "explanation": "مصطلح من محور «العلم والتكنولوجيا الحديثة»، ويعني «المجال الرقمي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-051",
+        "term": "Internet",
+        "translation": "الإنترنت",
+        "example": "Internet facilite l’accès rapide à l’information.",
+        "explanation": "مصطلح من محور «العلم والتكنولوجيا الحديثة»، ويعني «الإنترنت». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-052",
+        "term": "les réseaux sociaux",
+        "translation": "شبكات التواصل الاجتماعي",
+        "example": "Les réseaux sociaux permettent de communiquer instantanément.",
+        "explanation": "مصطلح من محور «العلم والتكنولوجيا الحديثة»، ويعني «شبكات التواصل الاجتماعي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-053",
+        "term": "la communication",
+        "translation": "التواصل",
+        "example": "Les nouvelles technologies facilitent la communication.",
+        "explanation": "مصطلح من محور «العلم والتكنولوجيا الحديثة»، ويعني «التواصل». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-054",
+        "term": "l’information",
+        "translation": "المعلومات",
+        "example": "Internet donne accès à une grande quantité d’informations.",
+        "explanation": "مصطلح من محور «العلم والتكنولوجيا الحديثة»، ويعني «المعلومات». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-055",
+        "term": "la source",
+        "translation": "المصدر",
+        "example": "Il faut vérifier la source d’une information avant de la partager.",
+        "explanation": "مصطلح من محور «العلم والتكنولوجيا الحديثة»، ويعني «المصدر». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-056",
+        "term": "la désinformation",
+        "translation": "التضليل الإعلامي",
+        "example": "La désinformation peut influencer l’opinion publique.",
+        "explanation": "مصطلح من محور «العلم والتكنولوجيا الحديثة»، ويعني «التضليل الإعلامي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-057",
+        "term": "la vie privée",
+        "translation": "الحياة الخاصة",
+        "example": "Les utilisateurs doivent protéger leur vie privée sur Internet.",
+        "explanation": "مصطلح من محور «العلم والتكنولوجيا الحديثة»، ويعني «الحياة الخاصة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-058",
+        "term": "la cybercriminalité",
+        "translation": "الجرائم الإلكترونية",
+        "example": "La cybercriminalité représente une menace croissante.",
+        "explanation": "مصطلح من محور «العلم والتكنولوجيا الحديثة»، ويعني «الجرائم الإلكترونية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-059",
+        "term": "la dépendance",
+        "translation": "الإدمان / الاعتماد",
+        "example": "La dépendance aux réseaux sociaux peut avoir des conséquences négatives.",
+        "explanation": "مصطلح من محور «العلم والتكنولوجيا الحديثة»، ويعني «الإدمان / الاعتماد». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-060",
+        "term": "l’accès à l’information",
+        "translation": "الوصول إلى المعلومات",
+        "example": "Internet facilite l’accès à l’information scientifique.",
+        "explanation": "مصطلح من محور «العلم والتكنولوجيا الحديثة»، ويعني «الوصول إلى المعلومات». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-061",
+        "term": "l’éducation",
+        "translation": "التعليم",
+        "example": "L’éducation est un facteur essentiel du développement.",
+        "explanation": "مصطلح من محور «التعليم والمجتمع»، ويعني «التعليم». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-062",
+        "term": "l’enseignement",
+        "translation": "التعليم / التدريس",
+        "example": "L’enseignement des langues étrangères favorise l’ouverture culturelle.",
+        "explanation": "مصطلح من محور «التعليم والمجتمع»، ويعني «التعليم / التدريس». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-063",
+        "term": "l’apprentissage",
+        "translation": "التعلم",
+        "example": "L’apprentissage d’une langue demande beaucoup de pratique.",
+        "explanation": "مصطلح من محور «التعليم والمجتمع»، ويعني «التعلم». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-064",
+        "term": "le système éducatif",
+        "translation": "النظام التعليمي",
+        "example": "Chaque pays possède son propre système éducatif.",
+        "explanation": "مصطلح من محور «التعليم والمجتمع»، ويعني «النظام التعليمي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-065",
+        "term": "la scolarisation",
+        "translation": "التمدرس",
+        "example": "La scolarisation des enfants doit être une priorité.",
+        "explanation": "مصطلح من محور «التعليم والمجتمع»، ويعني «التمدرس». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-066",
+        "term": "l’analphabétisme",
+        "translation": "الأمية",
+        "example": "La lutte contre l’analphabétisme reste nécessaire dans certaines régions.",
+        "explanation": "مصطلح من محور «التعليم والمجتمع»، ويعني «الأمية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-067",
+        "term": "la formation",
+        "translation": "التكوين",
+        "example": "La formation permet aux jeunes de développer leurs compétences.",
+        "explanation": "مصطلح من محور «التعليم والمجتمع»، ويعني «التكوين». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-068",
+        "term": "la compétence",
+        "translation": "الكفاءة / المهارة",
+        "example": "La maîtrise des langues est une compétence importante.",
+        "explanation": "مصطلح من محور «التعليم والمجتمع»، ويعني «الكفاءة / المهارة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-069",
+        "term": "l’égalité des chances",
+        "translation": "تكافؤ الفرص",
+        "example": "L’école doit garantir l’égalité des chances à tous les élèves.",
+        "explanation": "مصطلح من محور «التعليم والمجتمع»، ويعني «تكافؤ الفرص». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-070",
+        "term": "la réussite scolaire",
+        "translation": "النجاح الدراسي",
+        "example": "La réussite scolaire dépend de plusieurs facteurs.",
+        "explanation": "مصطلح من محور «التعليم والمجتمع»، ويعني «النجاح الدراسي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-071",
+        "term": "l’abandon scolaire",
+        "translation": "التسرب المدرسي",
+        "example": "L’abandon scolaire peut avoir des conséquences sociales importantes.",
+        "explanation": "مصطلح من محور «التعليم والمجتمع»، ويعني «التسرب المدرسي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-072",
+        "term": "la citoyenneté",
+        "translation": "المواطنة",
+        "example": "La citoyenneté implique des droits et des devoirs.",
+        "explanation": "مصطلح من محور «التعليم والمجتمع»، ويعني «المواطنة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-073",
+        "term": "les droits de l’homme",
+        "translation": "حقوق الإنسان",
+        "example": "Les droits de l’homme doivent être respectés partout.",
+        "explanation": "مصطلح من محور «التعليم والمجتمع»، ويعني «حقوق الإنسان». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-074",
+        "term": "la solidarité",
+        "translation": "التضامن",
+        "example": "La solidarité permet d’aider les personnes en difficulté.",
+        "explanation": "مصطلح من محور «التعليم والمجتمع»، ويعني «التضامن». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-075",
+        "term": "la tolérance",
+        "translation": "التسامح",
+        "example": "La tolérance favorise la coexistence pacifique.",
+        "explanation": "مصطلح من محور «التعليم والمجتمع»، ويعني «التسامح». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-076",
+        "term": "l’emploi",
+        "translation": "العمل / الوظيفة",
+        "example": "La création d’emplois est essentielle pour les jeunes.",
+        "explanation": "مصطلح من محور «العمل والاقتصاد والمجتمع»، ويعني «العمل / الوظيفة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-077",
+        "term": "le chômage",
+        "translation": "البطالة",
+        "example": "Le chômage des jeunes constitue un défi économique important.",
+        "explanation": "مصطلح من محور «العمل والاقتصاد والمجتمع»، ويعني «البطالة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-078",
+        "term": "le marché du travail",
+        "translation": "سوق العمل",
+        "example": "Les compétences numériques sont recherchées sur le marché du travail.",
+        "explanation": "مصطلح من محور «العمل والاقتصاد والمجتمع»، ويعني «سوق العمل». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-079",
+        "term": "la profession",
+        "translation": "المهنة",
+        "example": "Le choix d’une profession dépend souvent des compétences de la personne.",
+        "explanation": "مصطلح من محور «العمل والاقتصاد والمجتمع»، ويعني «المهنة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-080",
+        "term": "la formation professionnelle",
+        "translation": "التكوين المهني",
+        "example": "La formation professionnelle facilite l’insertion dans le monde du travail.",
+        "explanation": "مصطلح من محور «العمل والاقتصاد والمجتمع»، ويعني «التكوين المهني». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-081",
+        "term": "l’entreprise",
+        "translation": "المؤسسة / الشركة",
+        "example": "L’entreprise cherche à améliorer sa production.",
+        "explanation": "مصطلح من محور «العمل والاقتصاد والمجتمع»، ويعني «المؤسسة / الشركة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-082",
+        "term": "l’employeur",
+        "translation": "صاحب العمل",
+        "example": "L’employeur doit respecter les droits des travailleurs.",
+        "explanation": "مصطلح من محور «العمل والاقتصاد والمجتمع»، ويعني «صاحب العمل». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-083",
+        "term": "le salarié",
+        "translation": "الأجير / الموظف",
+        "example": "Le salarié bénéficie de certains droits sociaux.",
+        "explanation": "مصطلح من محور «العمل والاقتصاد والمجتمع»، ويعني «الأجير / الموظف». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-084",
+        "term": "le recrutement",
+        "translation": "التوظيف",
+        "example": "Le recrutement de nouveaux employés commence après l’étude des candidatures.",
+        "explanation": "مصطلح من محور «العمل والاقتصاد والمجتمع»، ويعني «التوظيف». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-085",
+        "term": "le curriculum vitae",
+        "translation": "السيرة الذاتية",
+        "example": "Le candidat doit préparer un curriculum vitae clair.",
+        "explanation": "مصطلح من محور «العمل والاقتصاد والمجتمع»، ويعني «السيرة الذاتية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-086",
+        "term": "l’entretien d’embauche",
+        "translation": "مقابلة التوظيف",
+        "example": "Il a réussi son entretien d’embauche.",
+        "explanation": "مصطلح من محور «العمل والاقتصاد والمجتمع»، ويعني «مقابلة التوظيف». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-087",
+        "term": "le salaire",
+        "translation": "الراتب",
+        "example": "Le salaire dépend généralement de l’expérience et des qualifications.",
+        "explanation": "مصطلح من محور «العمل والاقتصاد والمجتمع»، ويعني «الراتب». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-088",
+        "term": "les conditions de travail",
+        "translation": "ظروف العمل",
+        "example": "De bonnes conditions de travail améliorent la productivité.",
+        "explanation": "مصطلح من محور «العمل والاقتصاد والمجتمع»، ويعني «ظروف العمل». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-089",
+        "term": "la productivité",
+        "translation": "الإنتاجية",
+        "example": "La formation peut augmenter la productivité des travailleurs.",
+        "explanation": "مصطلح من محور «العمل والاقتصاد والمجتمع»، ويعني «الإنتاجية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-090",
+        "term": "le développement économique",
+        "translation": "التنمية الاقتصادية",
+        "example": "Le développement économique peut améliorer le niveau de vie.",
+        "explanation": "مصطلح من محور «العمل والاقتصاد والمجتمع»، ويعني «التنمية الاقتصادية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-091",
+        "term": "les médias",
+        "translation": "وسائل الإعلام",
+        "example": "Les médias jouent un rôle important dans la société.",
+        "explanation": "مصطلح من محور «الإعلام والتواصل والحياة الاجتماعية»، ويعني «وسائل الإعلام». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-092",
+        "term": "la presse",
+        "translation": "الصحافة",
+        "example": "La presse informe les citoyens sur l’actualité.",
+        "explanation": "مصطلح من محور «الإعلام والتواصل والحياة الاجتماعية»، ويعني «الصحافة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-093",
+        "term": "le journaliste",
+        "translation": "الصحفي",
+        "example": "Le journaliste doit vérifier ses informations avant de publier un article.",
+        "explanation": "مصطلح من محور «الإعلام والتواصل والحياة الاجتماعية»، ويعني «الصحفي». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-094",
+        "term": "l’actualité",
+        "translation": "الأخبار / الأحداث الجارية",
+        "example": "Les jeunes suivent l’actualité sur Internet.",
+        "explanation": "مصطلح من محور «الإعلام والتواصل والحياة الاجتماعية»، ويعني «الأخبار / الأحداث الجارية». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-095",
+        "term": "l’opinion publique",
+        "translation": "الرأي العام",
+        "example": "Les médias peuvent influencer l’opinion publique.",
+        "explanation": "مصطلح من محور «الإعلام والتواصل والحياة الاجتماعية»، ويعني «الرأي العام». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-096",
+        "term": "la liberté d’expression",
+        "translation": "حرية التعبير",
+        "example": "La liberté d’expression est un droit fondamental.",
+        "explanation": "مصطلح من محور «الإعلام والتواصل والحياة الاجتماعية»، ويعني «حرية التعبير». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-097",
+        "term": "la discrimination",
+        "translation": "التمييز",
+        "example": "La société doit lutter contre toutes les formes de discrimination.",
+        "explanation": "مصطلح من محور «الإعلام والتواصل والحياة الاجتماعية»، ويعني «التمييز». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-098",
+        "term": "l’intégration",
+        "translation": "الاندماج",
+        "example": "L’intégration des jeunes dans la société est importante.",
+        "explanation": "مصطلح من محور «الإعلام والتواصل والحياة الاجتماعية»، ويعني «الاندماج». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-099",
+        "term": "l’immigration",
+        "translation": "الهجرة",
+        "example": "L’immigration est un phénomène qui concerne de nombreux pays.",
+        "explanation": "مصطلح من محور «الإعلام والتواصل والحياة الاجتماعية»، ويعني «الهجرة». وتوضح الجملة استعماله في هذا السياق."
+      },
+      {
+        "id": "fr-100",
+        "term": "la mondialisation",
+        "translation": "العولمة",
+        "example": "La mondialisation a renforcé les échanges entre les pays.",
+        "explanation": "مصطلح من محور «الإعلام والتواصل والحياة الاجتماعية»، ويعني «العولمة». وتوضح الجملة استعماله في هذا السياق."
+      }
+    ]
+  },
+  "history": {
+    "label": "التاريخ",
+    "icon": "🏛️",
+    "kind": "history",
+    "persons": [
+      {
+        "id": "hi-p01",
+        "name": "هاري ترومان Harry Truman",
+        "role": "رئيس الولايات المتحدة الأمريكية بين 1945 و1953، صاحب مبدأ ترومان 1947 القائم على احتواء الشيوعية، ويُعد من أبرز مؤسسي سياسة المواجهة الأمريكية في بداية الحرب الباردة."
+      },
+      {
+        "id": "hi-p02",
+        "name": "جوزيف ستالين Joseph Stalin",
+        "role": "زعيم الاتحاد السوفياتي بين 1924 و1953، أحد أبرز قادة المعسكر الشرقي خلال الحرب الباردة، ارتبط عهده بتشدد الاتحاد السوفياتي تجاه الغرب وأزمات مثل أزمة برلين."
+      },
+      {
+        "id": "hi-p03",
+        "name": "أندريه جدانوف Andrei Zhdanov",
+        "role": "سياسي سوفياتي، أحد قادة الحزب الشيوعي، صاحب مبدأ جدانوف 1947 الذي مثّل الرد السوفياتي على مبدأ ترومان، ومن مؤسسي الكومنفورم."
+      },
+      {
+        "id": "hi-p04",
+        "name": "نيكيتا خروتشوف Nikita Khrushchev",
+        "role": "زعيم سوفياتي ورئيس للاتحاد السوفياتي بين 1953 و1964، اشتهر بسياسة التعايش السلمي، وارتبطت فترة حكمه بأزمة الصواريخ الكوبية سنة 1962."
+      },
+      {
+        "id": "hi-p05",
+        "name": "جون كينيدي John F. Kennedy",
+        "role": "رئيس الولايات المتحدة بين 1961 و1963، ديمقراطي، عرفت فترة حكمه أزمة الصواريخ الكوبية 1962، واغتيل سنة 1963. وظهر تعريفه صراحة في موضوع بكالوريا لشعبة لغات أجنبية."
+      },
+      {
+        "id": "hi-p06",
+        "name": "رونالد ريغان Ronald Reagan",
+        "role": "رئيس الولايات المتحدة بين 1981 و1989، اتخذ موقفًا متشددًا تجاه الاتحاد السوفياتي، وارتبط اسمه بمبادرة الدفاع الاستراتيجي «حرب النجوم»."
+      },
+      {
+        "id": "hi-p07",
+        "name": "ميخائيل غورباتشوف Mikhail Gorbachev",
+        "role": "آخر زعماء الاتحاد السوفياتي، تولى القيادة سنة 1985، أطلق إصلاحات البيروسترويكا والغلاسنوست، وشهدت فترة حكمه نهاية الحرب الباردة وتفكك الاتحاد السوفياتي."
+      },
+      {
+        "id": "hi-p08",
+        "name": "ليونيد بريجنيف Leonid Brezhnev",
+        "role": "زعيم سوفياتي تولى قيادة الاتحاد السوفياتي خلال فترة مهمة من الحرب الباردة، ارتبط عهده بأزمة براغ والتدخل السوفياتي في أفغانستان وبسياسة التسلح والمواجهة مع الغرب."
+      },
+      {
+        "id": "hi-p09",
+        "name": "ونستون تشرشل Winston Churchill",
+        "role": "رئيس وزراء بريطاني، قاد بريطانيا خلال الحرب العالمية الثانية، وشارك في مؤتمر يالطا، واشتهر بخطابه الذي استخدم فيه تعبير «الستار الحديدي» لوصف انقسام أوروبا."
+      },
+      {
+        "id": "hi-p10",
+        "name": "فرانكلين روزفلت Franklin Roosevelt",
+        "role": "رئيس الولايات المتحدة بين 1933 و1945، قاد بلاده خلال جزء كبير من الحرب العالمية الثانية، وشارك في مؤتمر يالطا 1945."
+      },
+      {
+        "id": "hi-p11",
+        "name": "ريتشارد نيكسون Richard Nixon",
+        "role": "رئيس الولايات المتحدة بين 1969 و1974، شهدت فترته سياسة الانفراج بين القوتين، ووقّع معاهدة SALT I سنة 1972، واستقال على خلفية فضيحة ووترغيت."
+      },
+      {
+        "id": "hi-p12",
+        "name": "جورج بوش الأب George H. W. Bush",
+        "role": "رئيس الولايات المتحدة بين 1989 و1993، عاصر نهاية الحرب الباردة، وشارك في مؤتمر مالطا 1989، وارتبط اسمه بإعلان النظام الدولي الجديد."
+      },
+      {
+        "id": "hi-p13",
+        "name": "جورج مارشال George Marshall",
+        "role": "جنرال وسياسي أمريكي ووزير خارجية، صاحب مشروع مارشال 1947 لإعادة إعمار أوروبا، وكان المشروع جزءًا من استراتيجية الولايات المتحدة في مواجهة انتشار الشيوعية."
+      },
+      {
+        "id": "hi-p14",
+        "name": "دوايت إيزنهاور Dwight Eisenhower",
+        "role": "رئيس الولايات المتحدة بين 1953 و1961، جنرال سابق وقائد عسكري بارز، ارتبط اسمه بمشروع إيزنهاور 1957 وسياسة ملء الفراغ، وشهدت فترته أزمة السويس."
+      },
+      {
+        "id": "hi-p15",
+        "name": "جواهر لال نهرو Jawaharlal Nehru",
+        "role": "سياسي هندي وأول رئيس وزراء للهند المستقلة، من أبرز قادة حركة عدم الانحياز، وشارك في مؤتمر باندونغ 1955."
+      },
+      {
+        "id": "hi-p16",
+        "name": "جوزيف بروز تيتو Josip Broz Tito",
+        "role": "رئيس يوغوسلافيا وزعيم سياسي، من أبرز مؤسسي حركة عدم الانحياز، وترأس مؤتمرها الأول في بلغراد سنة 1961."
+      },
+      {
+        "id": "hi-p17",
+        "name": "جمال عبد الناصر",
+        "role": "رئيس مصر وأحد قادة ثورة 1952، من أبرز زعماء حركات التحرر، أمّم قناة السويس سنة 1956، وكان من مؤسسي حركة عدم الانحياز."
+      },
+      {
+        "id": "hi-p18",
+        "name": "مصالي الحاج",
+        "role": "سياسي ومناضل جزائري، زعيم التيار الاستقلالي، أسس نجم شمال إفريقيا ثم حزب الشعب الجزائري ثم حركة انتصار الحريات الديمقراطية، وكان من أبرز دعاة استقلال الجزائر."
+      },
+      {
+        "id": "hi-p19",
+        "name": "البشير الإبراهيمي",
+        "role": "عالم ومصلح وسياسي جزائري، من قادة جمعية العلماء المسلمين الجزائريين، خلف ابن باديس في رئاسة الجمعية، ودافع عن مقومات الشخصية الوطنية الجزائرية."
+      },
+      {
+        "id": "hi-p20",
+        "name": "فرحات عباس",
+        "role": "سياسي جزائري وزعيم التيار الإدماجي في بدايته، أسس أحباب البيان والحرية ثم الاتحاد الديمقراطي للبيان الجزائري، وأصبح أول رئيس للحكومة المؤقتة للجمهورية الجزائرية سنة 1958."
+      },
+      {
+        "id": "hi-p21",
+        "name": "محمد بلوزداد",
+        "role": "مناضل جزائري وأحد قادة حركة انتصار الحريات الديمقراطية، كان أول رئيس لـ المنظمة الخاصة سنة 1947."
+      },
+      {
+        "id": "hi-p22",
+        "name": "حسين آيت أحمد",
+        "role": "مناضل وثوري جزائري، من أبرز عناصر المنظمة الخاصة، شارك في الحركة الوطنية والثورة، وكان من أعضاء الوفد الخارجي، واعتقل مع قادة الثورة في حادثة اختطاف الطائرة سنة 1956."
+      },
+      {
+        "id": "hi-p23",
+        "name": "أحمد بن بلة",
+        "role": "مناضل وثوري جزائري، انخرط في حزب الشعب والمنظمة الخاصة، كان عضوًا في الوفد الخارجي، واعتقل سنة 1956، وأصبح أول رئيس للجزائر المستقلة سنة 1962."
+      },
+      {
+        "id": "hi-p24",
+        "name": "محمد خيضر",
+        "role": "سياسي وثوري جزائري، انخرط في نجم شمال إفريقيا وحزب الشعب، وكان من عناصر المنظمة الخاصة والوفد الخارجي، واعتقل في حادثة اختطاف الطائرة سنة 1956."
+      },
+      {
+        "id": "hi-p25",
+        "name": "محمد بوضياف",
+        "role": "مناضل وثوري جزائري، عضو في حزب الشعب والمنظمة الخاصة، ومن أعضاء مجموعة الـ22 واللجنة الستة، واعتقل سنة 1956، ثم أصبح رئيسًا للجزائر سنة 1992."
+      },
+      {
+        "id": "hi-p26",
+        "name": "مصطفى بن بولعيد",
+        "role": "مناضل وثوري جزائري، من أعضاء المنظمة الخاصة ومن مؤسسي اللجنة الثورية للوحدة والعمل، وأحد أعضاء مجموعة الـ22 واللجنة الستة، وقائد الولاية الأولى الأوراس."
+      },
+      {
+        "id": "hi-p27",
+        "name": "ديدوش مراد",
+        "role": "مناضل وثوري جزائري، ساهم في التحضير للثورة، وكان عضوًا في مجموعة الستة، وتولى قيادة الولاية الثانية الشمال القسنطيني."
+      },
+      {
+        "id": "hi-p28",
+        "name": "العربي بن مهيدي",
+        "role": "من أبرز قادة الثورة الجزائرية، كان عضوًا في المنظمة الخاصة ومجموعة الـ22 واللجنة الستة، قاد الولاية الخامسة، وأشرف على إضراب الثمانية أيام خلال معركة الجزائر، واستشهد سنة 1957."
+      },
+      {
+        "id": "hi-p29",
+        "name": "رابح بيطاط",
+        "role": "مناضل وثوري جزائري، عضو في حركة انتصار الحريات الديمقراطية واللجنة الثورية للوحدة والعمل ومجموعة الـ22 واللجنة الستة، وقائد الولاية الرابعة."
+      },
+      {
+        "id": "hi-p30",
+        "name": "عبان رمضان",
+        "role": "مناضل وثوري جزائري، كان له دور بارز في تنظيم الثورة، ومن أهم مهندسي مؤتمر الصومام 1956، وارتبط اسمه بمبدأ أولوية السياسي على العسكري وأولوية الداخل على الخارج."
+      },
+      {
+        "id": "hi-p31",
+        "name": "كريم بلقاسم",
+        "role": "مناضل وثوري جزائري، من أعضاء مجموعة الـ22 واللجنة الستة، وقائد المنطقة الثالثة منطقة القبائل، ومن أبرز قادة الثورة."
+      },
+      {
+        "id": "hi-p32",
+        "name": "زيغود يوسف",
+        "role": "ثوري وقائد في الثورة الجزائرية، تولى قيادة الولاية الثانية، وقاد هجومات الشمال القسنطيني في 20 أوت 1955 التي ساهمت في إعطاء الثورة بعدًا شعبيًا وعسكريًا أكبر."
+      },
+      {
+        "id": "hi-p33",
+        "name": "بن يوسف بن خدة",
+        "role": "مناضل وسياسي جزائري، قيادي في حركة انتصار الحريات الديمقراطية، وأصبح أمينًا عامًا للجنة المركزية، ثم تولى رئاسة الحكومة المؤقتة للجمهورية الجزائرية خلال المرحلة الأخيرة من الثورة."
+      },
+      {
+        "id": "hi-p34",
+        "name": "هواري بومدين",
+        "role": "اسمه الحقيقي محمد بوخروبة، ثوري ورجل دولة جزائري، تولى قيادة أركان جيش التحرير ثم أصبح وزيرًا للدفاع بعد الاستقلال، وقاد التصحيح الثوري في 19 جوان 1965 وأصبح رئيسًا للجزائر."
+      },
+      {
+        "id": "hi-p35",
+        "name": "الشاذلي بن جديد",
+        "role": "سياسي وعسكري جزائري شارك في الثورة، أصبح رئيسًا للجزائر سنة 1979، وشهدت فترة حكمه أحداث أكتوبر 1988 وصدور دستور 1989 الذي أقر التعددية السياسية."
+      },
+      {
+        "id": "hi-p36",
+        "name": "عبد الرحمان فارس",
+        "role": "سياسي ومحامٍ جزائري، ترأس الهيئة التنفيذية المؤقتة بعد وقف إطلاق النار سنة 1962، وتولى تسيير المرحلة الانتقالية إلى غاية الاستقلال."
+      },
+      {
+        "id": "hi-p37",
+        "name": "حسيبة بن بوعلي",
+        "role": "مناضلة وثورية جزائرية، شاركت في الثورة ضمن فدائيي معركة الجزائر، واستشهدت سنة 1957."
+      },
+      {
+        "id": "hi-p38",
+        "name": "عيسات إيدير",
+        "role": "مناضل نقابي جزائري، من مؤسسي الاتحاد العام للعمال الجزائريين، وساهم في دعم الثورة من خلال العمل النقابي."
+      },
+      {
+        "id": "hi-p39",
+        "name": "أحمد زبانة",
+        "role": "مناضل وثوري جزائري، شارك في التحضير للثورة وتنفيذ عملياتها الأولى، وأصبح من أوائل شهدائها الذين نفذ فيهم حكم الإعدام سنة 1956."
+      },
+      {
+        "id": "hi-p40",
+        "name": "جاك سوستال Jacques Soustelle",
+        "role": "سياسي فرنسي، عُيّن واليًا عامًا على الجزائر سنة 1955، وصاحب مشروع سوستال، الذي استهدف مواجهة الثورة ومحاولة احتواء الشعب الجزائري."
+      },
+      {
+        "id": "hi-p41",
+        "name": "جاك ماسو Jacques Massu",
+        "role": "جنرال فرنسي قاد القوات الفرنسية خلال معركة الجزائر، وارتبط اسمه بسياسة القمع والتعذيب خلال الثورة الجزائرية."
+      },
+      {
+        "id": "hi-p42",
+        "name": "شارل ديغول Charles de Gaulle",
+        "role": "جنرال وسياسي فرنسي ومؤسس الجمهورية الفرنسية الخامسة سنة 1958، اتبع سياسة تجمع بين العمل العسكري والسياسي تجاه الثورة، ثم أقر مبدأ حق تقرير المصير وانتهت سياسته بالمفاوضات واتفاقيات إيفيان."
+      },
+      {
+        "id": "hi-p43",
+        "name": "موريس شال Maurice Challe",
+        "role": "جنرال فرنسي وقائد عسكري، صاحب مخطط شال 1959 الذي استهدف القضاء على الثورة عسكريًا، وكان أحد المشاركين في محاولة الانقلاب على ديغول."
+      },
+      {
+        "id": "hi-p44",
+        "name": "بيير مانديس فرانس Pierre Mendès France",
+        "role": "سياسي ورئيس وزراء فرنسي، ترأس الحكومة لفترة قصيرة خلال بداية الثورة الجزائرية، وسقطت حكومته في سياق تصاعد أزمة الجزائر."
+      },
+      {
+        "id": "hi-p45",
+        "name": "لويس جوكس Louis Joxe",
+        "role": "سياسي فرنسي ووزير مكلف بالشؤون الجزائرية، ترأس الوفد الفرنسي في مفاوضات إيفيان ووقّع الاتفاقيات مع الجانب الجزائري."
+      },
+      {
+        "id": "hi-p46",
+        "name": "غي مولييه Guy Mollet",
+        "role": "سياسي فرنسي ورئيس وزراء فرنسا خلال مرحلة مهمة من الثورة الجزائرية، اتخذت حكومته موقفًا متشددًا تجاه الثورة ووسعت العمليات العسكرية الفرنسية في الجزائر."
+      },
+      {
+        "id": "hi-p47",
+        "name": "هواري بومدين",
+        "role": "رجل دولة جزائري، رئيس الجزائر بعد 1965، وارتبط اسمه بدعم حركات التحرر وحركة عدم الانحياز، لذلك يظهر أيضًا في الوحدة الثالثة."
+      },
+      {
+        "id": "hi-p48",
+        "name": "جمال عبد الناصر",
+        "role": "رئيس مصر وأحد رموز حركات التحرر العربية، أمّم قناة السويس وقاد مصر خلال أزمة السويس، وكان من أبرز الداعمين للقضايا التحررية وعدم الانحياز."
+      },
+      {
+        "id": "hi-p49",
+        "name": "المهاتما غاندي Mahatma Gandhi",
+        "role": "زعيم وطني هندي، قاد النضال ضد الاستعمار البريطاني بالاعتماد على المقاومة السلمية والعصيان المدني، وكان من أبرز رموز استقلال الهند."
+      },
+      {
+        "id": "hi-p50",
+        "name": "جواهر لال نهرو",
+        "role": "زعيم وسياسي هندي، أول رئيس وزراء للهند المستقلة، ومن قادة حركة عدم الانحياز، وشارك في مؤتمر باندونغ."
+      },
+      {
+        "id": "hi-p51",
+        "name": "محمد علي جناح Muhammad Ali Jinnah",
+        "role": "زعيم سياسي مسلم هندي، قاد الرابطة الإسلامية وطالب بإقامة دولة للمسلمين في شبه القارة الهندية، وأصبح أول حاكم عام لباكستان بعد استقلالها."
+      },
+      {
+        "id": "hi-p52",
+        "name": "فيدال كاسترو Fidel Castro",
+        "role": "زعيم الثورة الكوبية، قاد الثورة التي أطاحت بنظام باتيستا سنة 1959، واتجه إلى النظام الاشتراكي وواجه النفوذ الأمريكي."
+      },
+      {
+        "id": "hi-p53",
+        "name": "فولغينسيو باتيستا Fulgencio Batista",
+        "role": "سياسي وعسكري كوبي، حكم كوبا قبل انتصار الثورة الكوبية، وأطيح به سنة 1959 على يد الثورة بقيادة فيدال كاسترو."
+      },
+      {
+        "id": "hi-p54",
+        "name": "تشي غيفارا Che Guevara",
+        "role": "ثائر وسياسي أرجنتيني الأصل، شارك في الثورة الكوبية إلى جانب فيدال كاسترو، واشتهر بأفكاره الثورية والاشتراكية ودعمه لحركات التحرر."
+      },
+      {
+        "id": "hi-p55",
+        "name": "هوشي منه Ho Chi Minh",
+        "role": "زعيم سياسي وثوري فيتنامي، قاد الحركة التحررية ضد الاستعمار الفرنسي ثم التدخل الأمريكي، وأسهم في قيام جمهورية فيتنام الشمالية."
+      },
+      {
+        "id": "hi-p56",
+        "name": "جياب Võ Nguyên Giáp",
+        "role": "قائد عسكري فيتنامي، قاد القوات الفيتنامية ضد فرنسا، واشتهر بانتصار قواته في معركة ديان بيان فو 1954."
+      },
+      {
+        "id": "hi-p57",
+        "name": "باو داي Bảo Đại",
+        "role": "آخر أباطرة أسرة نغوين في فيتنام، أصبح رئيس دولة فيتنام خلال مرحلة الصراع مع الحركة التحررية الفيتنامية."
+      },
+      {
+        "id": "hi-p58",
+        "name": "أحمد سوكارنو Sukarno",
+        "role": "زعيم وسياسي إندونيسي، قاد النضال ضد الاستعمار الهولندي، وكان من منظمي مؤتمر باندونغ 1955 ومن مؤسسي حركة عدم الانحياز."
+      },
+      {
+        "id": "hi-p59",
+        "name": "ياسر عرفات",
+        "role": "زعيم فلسطيني ورئيس منظمة التحرير الفلسطينية، قاد العمل الوطني الفلسطيني، وارتبط اسمه بقيادة منظمة التحرير والنضال من أجل إقامة دولة فلسطينية."
+      },
+      {
+        "id": "hi-p60",
+        "name": "مناحيم بيغن Menachem Begin",
+        "role": "سياسي إسرائيلي ورئيس وزراء إسرائيل، شارك مع الرئيس المصري أنور السادات والرئيس الأمريكي جيمي كارتر في مسار كامب ديفيد 1978."
+      },
+      {
+        "id": "hi-p61",
+        "name": "إسحاق رابين Yitzhak Rabin",
+        "role": "سياسي وعسكري إسرائيلي ورئيس وزراء إسرائيل، شارك في مسار المفاوضات مع الفلسطينيين في بداية التسعينيات."
+      },
+      {
+        "id": "hi-p62",
+        "name": "محمد أنور السادات",
+        "role": "رئيس مصر، قاد مصر خلال حرب أكتوبر 1973، ثم دخل في مفاوضات مع إسرائيل انتهت إلى اتفاقيات كامب ديفيد 1978 ومعاهدة السلام المصرية الإسرائيلية."
+      }
+    ],
+    "dates": [
+      {
+        "id": "hi-d01",
+        "date": "04–11 فيفري 1945",
+        "event": "مؤتمر يالطا"
+      },
+      {
+        "id": "hi-d02",
+        "date": "16 جويلية 1945",
+        "event": "أول تفجير تجريبي للقنبلة الذرية الأمريكية"
+      },
+      {
+        "id": "hi-d03",
+        "date": "06 أوت 1945",
+        "event": "إلقاء القنبلة الذرية على هيروشيما"
+      },
+      {
+        "id": "hi-d04",
+        "date": "09 أوت 1945",
+        "event": "إلقاء القنبلة الذرية على ناغازاكي"
+      },
+      {
+        "id": "hi-d05",
+        "date": "24 أكتوبر 1945",
+        "event": "تأسيس هيئة الأمم المتحدة"
+      },
+      {
+        "id": "hi-d06",
+        "date": "17 جويلية–02 أوت 1945",
+        "event": "مؤتمر بوتسدام"
+      },
+      {
+        "id": "hi-d07",
+        "date": "05 مارس 1946",
+        "event": "خطاب تشرشل وظهور مصطلح «الستار الحديدي»"
+      },
+      {
+        "id": "hi-d08",
+        "date": "12 مارس 1947",
+        "event": "إعلان مبدأ ترومان"
+      },
+      {
+        "id": "hi-d09",
+        "date": "05 جوان 1947",
+        "event": "إعلان مشروع مارشال"
+      },
+      {
+        "id": "hi-d10",
+        "date": "22 سبتمبر 1947",
+        "event": "إعلان مبدأ جدانوف"
+      },
+      {
+        "id": "hi-d11",
+        "date": "06 أكتوبر 1947",
+        "event": "إنشاء الكومنفورم"
+      },
+      {
+        "id": "hi-d12",
+        "date": "25 جانفي 1949",
+        "event": "إنشاء الكوميكون"
+      },
+      {
+        "id": "hi-d13",
+        "date": "04 أفريل 1949",
+        "event": "تأسيس حلف شمال الأطلسي NATO"
+      },
+      {
+        "id": "hi-d14",
+        "date": "23 جوان 1948",
+        "event": "بداية حصار برلين"
+      },
+      {
+        "id": "hi-d15",
+        "date": "08 ماي 1949",
+        "event": "قيام ألمانيا الغربية"
+      },
+      {
+        "id": "hi-d16",
+        "date": "12 ماي 1949",
+        "event": "رفع حصار برلين"
+      },
+      {
+        "id": "hi-d17",
+        "date": "01 أكتوبر 1949",
+        "event": "انتصار الثورة الشيوعية في الصين"
+      },
+      {
+        "id": "hi-d18",
+        "date": "07 أكتوبر 1949",
+        "event": "قيام ألمانيا الشرقية"
+      },
+      {
+        "id": "hi-d19",
+        "date": "25 جوان 1950",
+        "event": "اندلاع الحرب الكورية"
+      },
+      {
+        "id": "hi-d20",
+        "date": "27 جويلية 1953",
+        "event": "نهاية الحرب الكورية"
+      },
+      {
+        "id": "hi-d21",
+        "date": "05 مارس 1953",
+        "event": "وفاة ستالين"
+      },
+      {
+        "id": "hi-d22",
+        "date": "08 سبتمبر 1954",
+        "event": "تأسيس حلف جنوب شرق آسيا SEATO"
+      },
+      {
+        "id": "hi-d23",
+        "date": "24 فيفري 1955",
+        "event": "تأسيس حلف بغداد"
+      },
+      {
+        "id": "hi-d24",
+        "date": "18–24 أفريل 1955",
+        "event": "مؤتمر باندونغ"
+      },
+      {
+        "id": "hi-d25",
+        "date": "14 ماي 1955",
+        "event": "تأسيس حلف وارسو"
+      },
+      {
+        "id": "hi-d26",
+        "date": "17 أفريل 1956",
+        "event": "حل مكتب الكومنفورم"
+      },
+      {
+        "id": "hi-d27",
+        "date": "26 جويلية 1956",
+        "event": "تأميم قناة السويس"
+      },
+      {
+        "id": "hi-d28",
+        "date": "29 أكتوبر 1956",
+        "event": "بداية العدوان الثلاثي على مصر"
+      },
+      {
+        "id": "hi-d29",
+        "date": "05 جانفي 1957",
+        "event": "إعلان مشروع إيزنهاور"
+      },
+      {
+        "id": "hi-d30",
+        "date": "13 أوت 1961",
+        "event": "بناء جدار برلين"
+      },
+      {
+        "id": "hi-d31",
+        "date": "20–28 أكتوبر 1962",
+        "event": "أزمة الصواريخ الكوبية"
+      },
+      {
+        "id": "hi-d32",
+        "date": "20 جوان 1963",
+        "event": "إنشاء الخط الهاتفي الأحمر بين موسكو وواشنطن"
+      },
+      {
+        "id": "hi-d33",
+        "date": "26 ماي 1972",
+        "event": "توقيع اتفاقية SALT I"
+      },
+      {
+        "id": "hi-d34",
+        "date": "27 ديسمبر 1979",
+        "event": "بداية الغزو السوفياتي لأفغانستان"
+      },
+      {
+        "id": "hi-d35",
+        "date": "09 نوفمبر 1989",
+        "event": "سقوط جدار برلين"
+      },
+      {
+        "id": "hi-d36",
+        "date": "03 أكتوبر 1990",
+        "event": "توحيد ألمانيا"
+      },
+      {
+        "id": "hi-d37",
+        "date": "21 ديسمبر 1991",
+        "event": "نهاية الاتحاد السوفياتي/تأسيس رابطة الدول المستقلة"
+      },
+      {
+        "id": "hi-d38",
+        "date": "08 ماي 1945",
+        "event": "مجازر سطيف وقالمة وخراطة"
+      },
+      {
+        "id": "hi-d39",
+        "date": "16 مارس 1946",
+        "event": "تأسيس الاتحاد الديمقراطي للبيان الجزائري بقيادة فرحات عباس"
+      },
+      {
+        "id": "hi-d40",
+        "date": "15 فيفري 1947",
+        "event": "تأسيس المنظمة الخاصة OS"
+      },
+      {
+        "id": "hi-d41",
+        "date": "20 سبتمبر 1947",
+        "event": "صدور القانون الخاص بالجزائر"
+      },
+      {
+        "id": "hi-d42",
+        "date": "23 مارس 1954",
+        "event": "تأسيس اللجنة الثورية للوحدة والعمل"
+      },
+      {
+        "id": "hi-d43",
+        "date": "23 جوان 1954",
+        "event": "اجتماع مجموعة الـ22"
+      },
+      {
+        "id": "hi-d44",
+        "date": "10 أكتوبر 1954",
+        "event": "اجتماع لجنة الستة وتحديد موعد اندلاع الثورة"
+      },
+      {
+        "id": "hi-d45",
+        "date": "01 نوفمبر 1954",
+        "event": "اندلاع الثورة التحريرية الجزائرية"
+      },
+      {
+        "id": "hi-d46",
+        "date": "20 أوت 1955",
+        "event": "هجومات الشمال القسنطيني"
+      },
+      {
+        "id": "hi-d47",
+        "date": "20 أوت 1956",
+        "event": "انعقاد مؤتمر الصومام"
+      },
+      {
+        "id": "hi-d48",
+        "date": "22 أكتوبر 1956",
+        "event": "اختطاف طائرة قادة الثورة"
+      },
+      {
+        "id": "hi-d49",
+        "date": "24 فيفري 1956",
+        "event": "تأسيس الاتحاد العام للعمال الجزائريين"
+      },
+      {
+        "id": "hi-d50",
+        "date": "19 ماي 1956",
+        "event": "إضراب الطلبة الجزائريين"
+      },
+      {
+        "id": "hi-d51",
+        "date": "08 فيفري 1958",
+        "event": "قصف ساقية سيدي يوسف"
+      },
+      {
+        "id": "hi-d52",
+        "date": "13 ماي 1958",
+        "event": "أحداث 13 ماي وسقوط الجمهورية الرابعة الفرنسية"
+      },
+      {
+        "id": "hi-d53",
+        "date": "19 سبتمبر 1958",
+        "event": "تأسيس الحكومة المؤقتة للجمهورية الجزائرية"
+      },
+      {
+        "id": "hi-d54",
+        "date": "19 سبتمبر 1958",
+        "event": "انتخاب فرحات عباس رئيسًا للحكومة المؤقتة"
+      },
+      {
+        "id": "hi-d55",
+        "date": "03 أكتوبر 1958",
+        "event": "إعلان مشروع قسنطينة"
+      },
+      {
+        "id": "hi-d56",
+        "date": "16 سبتمبر 1959",
+        "event": "إعلان ديغول حق تقرير المصير"
+      },
+      {
+        "id": "hi-d57",
+        "date": "11 ديسمبر 1960",
+        "event": "مظاهرات الجزائر"
+      },
+      {
+        "id": "hi-d58",
+        "date": "17 أكتوبر 1961",
+        "event": "مظاهرات الجزائريين في باريس"
+      },
+      {
+        "id": "hi-d59",
+        "date": "18 مارس 1962",
+        "event": "توقيع اتفاقيات إيفيان"
+      },
+      {
+        "id": "hi-d60",
+        "date": "19 مارس 1962",
+        "event": "وقف إطلاق النار"
+      },
+      {
+        "id": "hi-d61",
+        "date": "01 جويلية 1962",
+        "event": "استفتاء تقرير المصير"
+      },
+      {
+        "id": "hi-d62",
+        "date": "03 جويلية 1962",
+        "event": "اعتراف فرنسا رسميًا باستقلال الجزائر"
+      },
+      {
+        "id": "hi-d63",
+        "date": "05 جويلية 1962",
+        "event": "عيد الاستقلال واسترجاع السيادة الوطنية"
+      },
+      {
+        "id": "hi-d64",
+        "date": "25 سبتمبر 1962",
+        "event": "إعلان قيام الجمهورية الجزائرية"
+      },
+      {
+        "id": "hi-d65",
+        "date": "19 جوان 1965",
+        "event": "التصحيح الثوري بقيادة هواري بومدين"
+      },
+      {
+        "id": "hi-d66",
+        "date": "15 أوت 1947",
+        "event": "استقلال الهند"
+      },
+      {
+        "id": "hi-d67",
+        "date": "14–15 أوت 1947",
+        "event": "استقلال باكستان والهند وتقسيم شبه القارة الهندية"
+      },
+      {
+        "id": "hi-d68",
+        "date": "15 ماي 1948",
+        "event": "إعلان قيام دولة إسرائيل"
+      },
+      {
+        "id": "hi-d69",
+        "date": "23 جويلية 1952",
+        "event": "ثورة الضباط الأحرار في مصر"
+      },
+      {
+        "id": "hi-d70",
+        "date": "07 ماي 1954",
+        "event": "انتصار الفيتنام على فرنسا في ديان بيان فو"
+      },
+      {
+        "id": "hi-d71",
+        "date": "20 جويلية 1954",
+        "event": "اتفاقيات جنيف الخاصة بالهند الصينية"
+      },
+      {
+        "id": "hi-d72",
+        "date": "26 جويلية 1956",
+        "event": "تأميم قناة السويس"
+      },
+      {
+        "id": "hi-d73",
+        "date": "01 جانفي 1959",
+        "event": "انتصار الثورة الكوبية"
+      },
+      {
+        "id": "hi-d74",
+        "date": "17 أفريل 1961",
+        "event": "محاولة غزو خليج الخنازير في كوبا"
+      },
+      {
+        "id": "hi-d75",
+        "date": "01 سبتمبر 1961",
+        "event": "بداية مؤتمر بلغراد/نشاط حركة عدم الانحياز"
+      },
+      {
+        "id": "hi-d76",
+        "date": "05 سبتمبر 1961",
+        "event": "تأسيس حركة عدم الانحياز في مؤتمر بلغراد"
+      },
+      {
+        "id": "hi-d77",
+        "date": "05 جوان 1967",
+        "event": "بداية حرب الأيام الستة"
+      },
+      {
+        "id": "hi-d78",
+        "date": "06 أكتوبر 1973",
+        "event": "اندلاع حرب أكتوبر"
+      },
+      {
+        "id": "hi-d79",
+        "date": "17 سبتمبر 1978",
+        "event": "توقيع اتفاقيات كامب ديفيد"
+      },
+      {
+        "id": "hi-d80",
+        "date": "26 مارس 1979",
+        "event": "توقيع معاهدة السلام المصرية الإسرائيلية"
+      }
+    ]
+  },
+  "geography": {
+    "label": "الجغرافيا",
+    "icon": "🌍",
+    "kind": "geography",
+    "items": [
+      {
+        "id": "ge-001",
+        "term": "التنمية",
+        "explanation": "عملية تهدف إلى تحسين الظروف الاقتصادية والاجتماعية للسكان."
+      },
+      {
+        "id": "ge-002",
+        "term": "التنمية المستدامة",
+        "explanation": "تنمية تلبي حاجات الحاضر دون الإضرار بقدرة الأجيال القادمة على تلبية حاجاتها."
+      },
+      {
+        "id": "ge-003",
+        "term": "الناتج الداخلي الخام PIB",
+        "explanation": "القيمة الإجمالية للسلع والخدمات المنتجة داخل دولة خلال فترة معينة."
+      },
+      {
+        "id": "ge-004",
+        "term": "الناتج الوطني الخام PNB",
+        "explanation": "قيمة الإنتاج المرتبط بمواطني الدولة، سواء داخلها أو خارجها."
+      },
+      {
+        "id": "ge-005",
+        "term": "الدخل الفردي",
+        "explanation": "متوسط الدخل المحسوب للفرد."
+      },
+      {
+        "id": "ge-006",
+        "term": "القوة الاقتصادية",
+        "explanation": "قدرة دولة أو مجموعة على التأثير في الاقتصاد العالمي."
+      },
+      {
+        "id": "ge-007",
+        "term": "التكتل الاقتصادي",
+        "explanation": "مجموعة دول تتعاون اقتصاديًا لتحقيق مصالح مشتركة."
+      },
+      {
+        "id": "ge-008",
+        "term": "العولمة",
+        "explanation": "تزايد الترابط الاقتصادي والسياسي والثقافي بين دول العالم."
+      },
+      {
+        "id": "ge-009",
+        "term": "التجارة الدولية",
+        "explanation": "تبادل السلع والخدمات بين الدول."
+      },
+      {
+        "id": "ge-010",
+        "term": "الاستثمار",
+        "explanation": "توظيف الأموال لإنشاء أو تطوير نشاط اقتصادي."
+      },
+      {
+        "id": "ge-011",
+        "term": "الشركات متعددة الجنسيات",
+        "explanation": "شركات تمارس نشاطها في عدة دول."
+      },
+      {
+        "id": "ge-012",
+        "term": "السوق",
+        "explanation": "فضاء يتم فيه تبادل السلع والخدمات."
+      },
+      {
+        "id": "ge-013",
+        "term": "الصادرات",
+        "explanation": "السلع والخدمات التي تبيعها الدولة للخارج."
+      },
+      {
+        "id": "ge-014",
+        "term": "الواردات",
+        "explanation": "السلع والخدمات التي تشتريها الدولة من الخارج."
+      },
+      {
+        "id": "ge-015",
+        "term": "الميزان التجاري",
+        "explanation": "الفرق بين قيمة الصادرات والواردات."
+      },
+      {
+        "id": "ge-016",
+        "term": "الدول المتقدمة",
+        "explanation": "دول تتميز بمستوى مرتفع من التنمية والدخل والخدمات."
+      },
+      {
+        "id": "ge-017",
+        "term": "الدول النامية",
+        "explanation": "دول تسعى إلى رفع مستويات التنمية الاقتصادية والاجتماعية."
+      },
+      {
+        "id": "ge-018",
+        "term": "العالم المتقدم",
+        "explanation": "الدول ذات الاقتصاد القوي ومستويات التنمية المرتفعة."
+      },
+      {
+        "id": "ge-019",
+        "term": "العالم النامي",
+        "explanation": "مجموعة الدول التي تواجه مستويات مختلفة من تحديات التنمية."
+      },
+      {
+        "id": "ge-020",
+        "term": "الفقر",
+        "explanation": "عدم القدرة على توفير الحاجات الأساسية."
+      },
+      {
+        "id": "ge-021",
+        "term": "البطالة",
+        "explanation": "عدم توفر عمل لشخص قادر وراغب في العمل."
+      },
+      {
+        "id": "ge-022",
+        "term": "الأمن الغذائي",
+        "explanation": "قدرة السكان على الحصول المستمر على غذاء كافٍ وآمن."
+      },
+      {
+        "id": "ge-023",
+        "term": "الأمن المائي",
+        "explanation": "توفر موارد مائية كافية للسكان والأنشطة الاقتصادية."
+      },
+      {
+        "id": "ge-024",
+        "term": "الموارد الطبيعية",
+        "explanation": "الثروات الموجودة في الطبيعة والقابلة للاستغلال."
+      },
+      {
+        "id": "ge-025",
+        "term": "الطاقة",
+        "explanation": "القدرة المستعملة لإنتاج الحركة أو الحرارة أو الكهرباء."
+      },
+      {
+        "id": "ge-026",
+        "term": "الاتحاد الأوروبي UE",
+        "explanation": "تكتل سياسي واقتصادي أوروبي."
+      },
+      {
+        "id": "ge-027",
+        "term": "الآسيان ASEAN",
+        "explanation": "رابطة دول جنوب شرق آسيا."
+      },
+      {
+        "id": "ge-028",
+        "term": "الأوبيك OPEC",
+        "explanation": "منظمة الدول المصدرة للبترول."
+      },
+      {
+        "id": "ge-029",
+        "term": "منظمة التجارة العالمية OMC",
+        "explanation": "منظمة تنظم قواعد التجارة الدولية."
+      },
+      {
+        "id": "ge-030",
+        "term": "صندوق النقد الدولي FMI",
+        "explanation": "مؤسسة مالية دولية تهتم بالنظام النقدي والمالي العالمي."
+      },
+      {
+        "id": "ge-031",
+        "term": "البنك العالمي",
+        "explanation": "مؤسسة دولية تمول مشاريع التنمية."
+      },
+      {
+        "id": "ge-032",
+        "term": "الكثافة السكانية",
+        "explanation": "عدد السكان بالنسبة إلى وحدة المساحة."
+      },
+      {
+        "id": "ge-033",
+        "term": "النمو الديموغرافي",
+        "explanation": "تغير عدد السكان خلال فترة زمنية."
+      },
+      {
+        "id": "ge-034",
+        "term": "الهجرة",
+        "explanation": "انتقال السكان من مكان إلى آخر."
+      },
+      {
+        "id": "ge-035",
+        "term": "التمدن",
+        "explanation": "تزايد نسبة السكان الذين يعيشون في المدن."
+      },
+      {
+        "id": "ge-036",
+        "term": "المجال",
+        "explanation": "حيز جغرافي تتفاعل داخله عناصر طبيعية وبشرية."
+      },
+      {
+        "id": "ge-037",
+        "term": "القطب الاقتصادي",
+        "explanation": "منطقة تتمتع بثقل اقتصادي كبير وتأثير واسع."
+      },
+      {
+        "id": "ge-038",
+        "term": "المركز",
+        "explanation": "منطقة تتمتع بقوة اقتصادية وسياسية وتقنية."
+      },
+      {
+        "id": "ge-039",
+        "term": "الهامش",
+        "explanation": "منطقة أقل اندماجًا وتأثيرًا في الاقتصاد العالمي."
+      },
+      {
+        "id": "ge-040",
+        "term": "التنمية البشرية",
+        "explanation": "تحسين قدرات الإنسان ومستوى معيشته وصحته وتعليمه."
+      }
+    ]
+  }
+}

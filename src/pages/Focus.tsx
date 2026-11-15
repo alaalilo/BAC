@@ -1,0 +1,10 @@
+import { useEffect, useState } from "react";
+import { Pause, Play, RotateCcw } from "lucide-react";
+import type { AppState } from "../types";
+export default function Focus({ state, setState }: { state: AppState; setState: (s: AppState) => void }) {
+  const [minutes, setMinutes] = useState(25); const [seconds, setSeconds] = useState(25 * 60); const [running, setRunning] = useState(false);
+  useEffect(() => { if (!running) return; const id = window.setInterval(() => setSeconds((s) => { if (s <= 1) { setRunning(false); const next = structuredClone(state); const key = new Date().toISOString().slice(0,10); next.activity[key] = (next.activity[key] ?? 0) + minutes; next.focusSessions[key] = (next.focusSessions[key] ?? 0) + 1; next.xp += 20; setState(next); return 0; } return s - 1; }), 1000); return () => clearInterval(id); }, [running, minutes, setState, state]);
+  const reset = () => { setRunning(false); setSeconds(minutes * 60); };
+  const progress = 1 - seconds / (minutes * 60);
+  return <div className="stack-lg"><div className="page-intro"><span className="eyebrow">إدارة الوقت</span><h1>وضع التركيز</h1><p>جلسة مركزة، ثم استراحة قصيرة.</p></div><section className="panel focus-panel"><div className="timer-presets">{[15,25,45,60].map((m) => <button key={m} className={minutes === m ? "preset active" : "preset"} disabled={running} onClick={() => { setMinutes(m); setSeconds(m * 60); }}>{m} دقيقة</button>)}</div><div className="timer-ring" style={{ "--progress": `${progress * 100}%` } as React.CSSProperties}><div><strong>{String(Math.floor(seconds / 60)).padStart(2,"0")}:{String(seconds % 60).padStart(2,"0")}</strong><span>{running ? "حافظ على تركيزك" : "جاهز للبدء"}</span></div></div><div className="timer-actions"><button className="btn-primary" onClick={() => setRunning(!running)}>{running ? <Pause size={17}/> : <Play size={17}/>} {running ? "إيقاف مؤقت" : "ابدأ الجلسة"}</button><button className="btn-quiet" onClick={reset}><RotateCcw size={16}/> إعادة</button></div></section></div>;
+}
