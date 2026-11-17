@@ -14,6 +14,6 @@ export type Profile = { name: string; gender: Gender; stream: StreamId; thirdLan
 export type AppState = {
   version: 3; profile: Profile; theme: Theme; subjects: Subject[]; terms: Term[];
   grades: Record<string, string>; target: number; focusSessions: Record<string, number>;
-  activity: Record<string, number>; xp: number; badges: string[]; dailyGoal: number;
+  activity: Record<string, number>; studyDays?: string[]; xp: number; badges: string[]; dailyGoal: number;
   dailyDone: number; dailyDate: string; onboardingDone: boolean; legacyMasteredTermIds?: string[]; archivedSubjects?: Subject[];
 };

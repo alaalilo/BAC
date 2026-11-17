@@ -1,5 +1,5 @@
-const CACHE = "altafawoq-v3";
-const CORE = ["./", "./manifest.webmanifest", "./icons/icon.svg"];
+const CACHE = "altafawoq-v4";
+const CORE = ["./", "./manifest.webmanifest", "./icons/icon.svg", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/icon-maskable-512.png"];
 self.addEventListener("install", (event) => event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(CORE))));
 self.addEventListener("activate", (event) => event.waitUntil(caches.keys().then((keys) => Promise.all(keys.filter((key) => key !== CACHE).map((key) => caches.delete(key))))));
 self.addEventListener("fetch", (event) => {

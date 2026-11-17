@@ -4,7 +4,6 @@
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
 
 /* Restored learning tools and source-library layout */
-.motivation-quote{margin:0;padding:1rem 1.2rem;border:1px solid var(--border);border-radius:16px;background:var(--surface);color:var(--muted);font-weight:650}
 .quiz-card{display:grid;gap:1rem;padding:1rem 0}
 .quiz-card h2{font-size:clamp(1.35rem,3vw,2rem);font-weight:800}
 .quiz-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.65rem}
@@ -31,3 +30,53 @@ input,select,textarea{ text-align:start; }
 .storage-warning{margin:0 0 18px;padding:12px 14px;border:1px solid #d79a36;border-radius:12px;background:color-mix(in srgb,#d79a36 10%,var(--surface));color:var(--text);font-size:12px;line-height:1.8}
 
 .exam-group{display:grid;gap:.35rem;padding:.45rem 0}.exam-group>small{color:var(--muted)}.exam-row{display:flex;align-items:center;justify-content:space-between;gap:.75rem;flex-wrap:wrap}.exam-row .lesson-chip{margin:2px 0}.exam-row select{padding:.35rem .55rem;border:1px solid var(--border);border-radius:9px;background:var(--surface);color:var(--text);font-size:12px}
+
+/* Custom identity, subject glyphs and streak sharing */
+.brand-mark { overflow: hidden; padding: 0; background: transparent; box-shadow: 0 8px 22px rgba(33, 111, 207, .18); }
+.brand-mark img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.nav-link > svg, .mobile-link > svg { flex: 0 0 auto; transition: transform .18s ease, color .18s ease; }
+.nav-link:hover > svg, .nav-link.active > svg { transform: translateY(-1px); }
+.nav-link.active { font-weight: 750; }
+.mobile-link { min-width: 49px; }
+.mobile-link.active > svg { filter: drop-shadow(0 0 7px color-mix(in srgb, var(--accent) 45%, transparent)); }
+.subject-tab { display: inline-flex; align-items: center; justify-content: center; gap: 8px; }
+.subject-tab > svg { flex: 0 0 auto; color: var(--accent); }
+.subject-tab.active > svg { color: var(--accent); }
+.subject-glyph { flex: 0 0 36px; }
+.subject-glyph svg { display: block; }
+.streak-stat { align-content: start; }
+.streak-share-button { display: inline-flex; align-items: center; justify-content: center; gap: 6px; width: fit-content; margin-top: 5px; padding: 7px 10px; border: 1px solid color-mix(in srgb, var(--accent) 28%, transparent); border-radius: 10px; background: var(--accent-soft); color: var(--accent); font-size: 11px; font-weight: 750; transition: transform .18s ease, background .18s ease; }
+.streak-share-button:hover { transform: translateY(-1px); background: color-mix(in srgb, var(--accent) 18%, var(--surface)); }
+.share-overlay { position: fixed; z-index: 50; inset: 0; display: grid; place-items: center; padding: 18px; background: rgba(3, 9, 19, .72); backdrop-filter: blur(9px); }
+.share-dialog { width: min(100%, 460px); max-height: min(90dvh, 760px); overflow: auto; padding: 22px; border: 1px solid var(--border); border-radius: 22px; background: var(--surface); color: var(--text); box-shadow: 0 28px 90px rgba(0,0,0,.42); }
+.share-dialog-heading { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; margin-bottom: 16px; }
+.share-dialog-heading h2 { margin-top: 3px; font-size: 19px; font-weight: 800; }
+.share-close { display: grid; place-items: center; width: 34px; height: 34px; border: 1px solid var(--border); border-radius: 10px; background: var(--surface-2); color: var(--muted); }
+.streak-share-preview { position: relative; display: grid; justify-items: center; overflow: hidden; padding: 22px 18px 20px; border: 1px solid rgba(139, 197, 255, .25); border-radius: 18px; background: radial-gradient(circle at 50% 38%, rgba(64, 132, 219, .25), transparent 46%), linear-gradient(145deg, #142b4b, #081525 75%); color: #f4f8ff; text-align: center; }
+.streak-share-preview::before, .streak-share-preview::after { position: absolute; width: 190px; height: 190px; border: 1px solid rgba(139, 197, 255, .1); border-radius: 50%; content: ""; }
+.streak-share-preview::before { top: 60px; inset-inline-start: -120px; }
+.streak-share-preview::after { bottom: -135px; inset-inline-end: -90px; }
+.share-brand { z-index: 1; display: flex; align-items: center; gap: 8px; margin-bottom: 18px; color: #c6ddff; font-size: 12px; font-weight: 800; }
+.share-brand-mark { display: grid; place-items: center; width: 28px; height: 28px; border: 1px solid rgba(146, 206, 255, .35); border-radius: 9px; background: rgba(79, 151, 241, .16); color: #9bdcff; }
+.share-flame { z-index: 1; display: grid; place-items: center; width: 54px; height: 54px; margin-bottom: 4px; border: 1px solid rgba(255, 180, 105, .35); border-radius: 18px; background: rgba(255, 140, 74, .13); color: #ffb36e; }
+.streak-share-preview > strong { z-index: 1; margin-top: 2px; color: #fff; font-size: 64px; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.streak-share-preview > b { z-index: 1; margin-top: 3px; color: #d9e9ff; font-size: 16px; }
+.streak-share-preview > p { z-index: 1; margin-top: 12px; color: #aebfd7; font-size: 12px; }
+.share-hashtag { z-index: 1; margin-top: 17px; color: #8bc6ff; font-size: 11px; font-weight: 800; }
+.share-copy-preview { margin-top: 15px; padding: 12px 14px; border: 1px solid var(--border); border-radius: 13px; background: var(--surface-2); }
+.share-copy-preview small { display: block; margin-bottom: 6px; color: var(--muted); font-size: 10px; }
+.share-copy-preview p { white-space: pre-line; color: var(--text); font-size: 12px; line-height: 1.8; }
+.share-actions { display: flex; gap: 9px; margin-top: 14px; }
+.share-actions button { flex: 1; }
+.share-status { display: flex; align-items: center; gap: 7px; margin-top: 12px; color: var(--accent); font-size: 12px; line-height: 1.7; }
+@media(max-width:560px) {
+  .share-dialog { padding: 16px; border-radius: 18px; }
+  .share-actions { flex-direction: column; }
+  .welcome-panel { gap: 8px; }
+  .subject-tab { padding: 8px 11px; }
+}
+
+.boot-mark { overflow: hidden; padding: 0; }
+.boot-mark img { display: block; width: 100%; height: 100%; object-fit: cover; }
+
+.share-brand-mark img { display: block; width: 28px; height: 28px; border-radius: 8px; object-fit: cover; }

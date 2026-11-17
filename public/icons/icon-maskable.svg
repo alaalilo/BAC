@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="54" y1="34" x2="452" y2="486" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#172B4D"/>
+      <stop offset="1" stop-color="#071322"/>
+    </linearGradient>
+    <linearGradient id="book" x1="104" y1="188" x2="402" y2="382" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8EE9FF"/>
+      <stop offset="1" stop-color="#4B8DFF"/>
+    </linearGradient>
+    <linearGradient id="rise" x1="246" y1="82" x2="364" y2="253" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B9F4FF"/>
+      <stop offset="1" stop-color="#68B7FF"/>
+    </linearGradient>
+    <filter id="glow" x="48" y="54" width="416" height="416" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="15"/>
+    </filter>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <circle cx="256" cy="252" r="178" stroke="#6DBEFF" stroke-opacity=".12" stroke-width="2"/>
+  <circle cx="256" cy="252" r="145" stroke="#6DBEFF" stroke-opacity=".09" stroke-width="2" stroke-dasharray="5 13"/>
+  <path d="M256 130c-82-52-159-42-211-12v238c65-31 139-27 211 20 72-47 146-51 211-20V118c-52-30-129-40-211 12Z" fill="#4B91FF" fill-opacity=".16" filter="url(#glow)"/>
+  <path d="M256 184c-57-34-110-37-161-17v173c54-18 108-10 161 27 53-37 107-45 161-27V167c-51-20-104-17-161 17Z" stroke="url(#book)" stroke-width="17" stroke-linejoin="round"/>
+  <path d="M256 185v182M125 211c37-11 75-5 108 13M125 253c34-8 68-3 98 13M387 211c-37-11-75-5-108 13M387 253c-34-8-68-3-98 13" stroke="url(#book)" stroke-width="12" stroke-linecap="round"/>
+  <path d="m235 165 60-69 39 36 61-72" stroke="url(#rise)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M354 60h42v42" stroke="url(#rise)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m164 116 7-17 7 17 17 7-17 7-7 17-7-17-17-7 17-7Z" fill="#B5F1FF"/>
+  <circle cx="392" cy="151" r="7" fill="#9CEBFF"/>
+</svg>

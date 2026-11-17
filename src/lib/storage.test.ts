@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, it, vi } from "vitest";
-import { loadState, saveState } from "./storage";
+import { loadState, restoreBackup, saveState } from "./storage";
 
 const legacyState = {
   theme: "light",
@@ -33,6 +33,7 @@ describe("local data resilience and legacy migration", () => {
     expect(result.warning).toBeNull();
     expect(result.state?.version).toBe(3);
     expect(result.state?.profile.thirdLanguage).toBe("de");
+    expect(result.state?.studyDays).toEqual([]);
     const french = result.state?.subjects.find((subject) => subject.id === "L3");
     expect(french?.topics[0].status).toBe("done");
     expect(french?.exercises?.[0].status).toBe("progress");
@@ -40,6 +41,18 @@ describe("local data resilience and legacy migration", () => {
     expect(french?.lessons[0].url).toBe("https://example.test/lesson");
     expect(result.state?.legacyMasteredTermIds).toContain("fr-001");
     expect(result.state?.grades.fr).toBe("15");
+  });
+
+  it("restores the saved study-day streak from a version 3 backup", () => {
+    const restored = restoreBackup({
+      version: 3,
+      profile: { name: "طالب", gender: "m", stream: "sci", thirdLanguage: "es" },
+      subjects: [],
+      terms: [],
+      activity: {},
+      studyDays: ["2026-11-15", "2026-11-16"],
+    });
+    expect(restored?.studyDays).toEqual(["2026-11-15", "2026-11-16"]);
   });
 
   it("returns a visible failure instead of silently swallowing quota errors", () => {

@@ -4,6 +4,7 @@ import { BookOpenCheck, RotateCcw, Volume2, Plus, Search, Brain, CheckCircle2, A
 import type { AppState, Term } from "../types";
 import { createTerm } from "../lib/storage";
 import { reviewTerm } from "../lib/spacedRepetition";
+import { recordStudyDay } from "../lib/progress";
 
 type LanguageCard = { id: string; term: string; translation?: string; example?: string; explanation?: string };
 type PersonCard = { id: string; name: string; role: string };
@@ -90,6 +91,7 @@ export default function Terms({ state, setState }: { state: AppState; setState: 
     const index = next.terms.findIndex((item) => item.id === updated.id);
     if (index >= 0) next.terms[index] = updated; else next.terms.push(updated);
     next.xp += quality >= 3 ? 5 : 1;
+    next.studyDays = recordStudyDay(next.studyDays);
     setState(next);
     setCurrentId(null); setFlipped(false); setAnswer(null);
   };
@@ -121,6 +123,7 @@ export default function Terms({ state, setState }: { state: AppState; setState: 
       const index = next.terms.findIndex((item) => item.id === updated.id);
       if (index >= 0) next.terms[index] = updated; else next.terms.push(updated);
       next.xp += 5;
+      next.studyDays = recordStudyDay(next.studyDays);
       setState(next);
     }
   };

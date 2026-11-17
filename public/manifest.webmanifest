@@ -1,15 +1,40 @@
 {
-  "name": "منصة التفوق",
+  "id": "./",
+  "name": "منصة التفوق — BAC Platform",
   "short_name": "التفوق",
-  "description": "منصة محلية لتنظيم مراجعة البكالوريا الجزائرية",
-  "lang": "ar",
+  "description": "منصة مراجعة منظمة لطلبة البكالوريا الجزائرية.",
+  "lang": "ar-DZ",
   "dir": "rtl",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0b1220",
-  "theme_color": "#101827",
+  "orientation": "portrait-primary",
+  "background_color": "#071322",
+  "theme_color": "#0b1930",
   "icons": [
-    { "src": "./icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
   ]
 }

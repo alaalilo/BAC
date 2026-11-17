@@ -3,7 +3,7 @@ import { coefficients } from "../data/coefficients";
 import { subjectIds, subjects as subjectNames } from "../data/streams";
 export const STORAGE_KEY = "bacStandard_v3";
 export const LEGACY_STORAGE_KEYS = ["bacStandard_v1"] as const;
-const today = () => new Date().toISOString().slice(0, 10);
+const today = () => { const date = new Date(); return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`; };
 export function createSubjects(profile: Profile): Subject[] {
   const ids = subjectIds[profile.stream];
   return ids.map((id) => ({
@@ -19,7 +19,7 @@ export function createSubjects(profile: Profile): Subject[] {
 export function createInitialState(profile: Profile): AppState {
   return {
     version: 3, profile, theme: "dark", subjects: createSubjects(profile), terms: [],
-    grades: {}, target: 14, focusSessions: {}, activity: {}, xp: 0, badges: [],
+    grades: {}, target: 14, focusSessions: {}, activity: {}, studyDays: [], xp: 0, badges: [],
     dailyGoal: 3, dailyDone: 0, dailyDate: today(), onboardingDone: true,
     archivedSubjects: [], legacyMasteredTermIds: [],
   };
@@ -65,6 +65,7 @@ function migrate(raw: Record<string, unknown>): AppState | null {
       grades: current.grades ?? {},
       focusSessions: current.focusSessions ?? current.activity ?? {},
       activity: current.activity ?? {},
+      studyDays: Array.isArray(current.studyDays) ? current.studyDays : [],
       badges: current.badges ?? [],
       legacyMasteredTermIds: Array.isArray(current.legacyMasteredTermIds) ? current.legacyMasteredTermIds : [],
       archivedSubjects: Array.isArray(current.archivedSubjects) ? current.archivedSubjects : [],

@@ -12,8 +12,10 @@ describe("original revision content", () => {
     expect(sourceTerms.history.dates).toHaveLength(80);
     expect(sourceTerms.geography.items).toHaveLength(40);
   });
-  it("keeps all original motivational messages and DzExams resources", () => {
+  it("keeps the neutral message dataset and DzExams resources", () => {
     expect(sourceMotivations.motivations).toHaveLength(100);
+    expect(sourceMotivations.motivations.join(" ")).not.toContain("أستاذة");
+    expect(sourceMotivations.motivations.join(" ")).not.toContain("أولادي");
     expect(sourceResources.english.bac["2026"]).toContain("dzexams.com");
     expect(sourceResources.french.exams["الفصل الأول"].length).toBeGreaterThan(0);
     expect(sourceResources.spanish.lessons.length).toBeGreaterThan(0);
