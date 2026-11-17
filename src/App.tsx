@@ -46,7 +46,7 @@ function AppContent() {
   })();
   return <Shell state={state} page={page} setPage={go} onSearch={() => setSearchOpen(true)} onTheme={() => setState({ ...state, theme: state.theme === "dark" ? "light" : "dark" })}>
     {storageWarning && <div className="storage-warning" role="alert">{storageWarning}</div>}
-    <Suspense fallback={<div className="page-loading" role="status">جارٍ تحميل الصفحة...</div>}><AnimatePresence mode="wait"><motion.div key={page} initial={{ opacity: 0, y: 7 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -5 }} transition={{ duration: .16 }}>{content}</motion.div></AnimatePresence></Suspense>
+    <Suspense fallback={null}><AnimatePresence mode="wait"><motion.div key={page} initial={{ opacity: 0, y: 7 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -5 }} transition={{ duration: .16 }}>{content}</motion.div></AnimatePresence></Suspense>
     {searchOpen && <div className="command-overlay" role="dialog" aria-modal="true" aria-label="البحث الشامل" onMouseDown={(e) => { if (e.target === e.currentTarget) setSearchOpen(false); }}><section className="command-box"><div className="command-input"><Search/><input dir="auto" autoFocus value={query} onChange={(e) => setQuery(e.target.value)} placeholder="ابحث عن مادة أو موضوع أو مصطلح..."/><button aria-label="إغلاق البحث" onClick={() => setSearchOpen(false)}><X/></button></div><div className="command-results">{searchable.map((item, i) => <button key={`${item.label}-${i}`} onClick={() => go(item.page)}><span>{item.label}</span><small>{item.hint}</small></button>)}{!searchable.length && <p>لا توجد نتائج مطابقة.</p>}</div></section></div>}
   </Shell>;
 }
